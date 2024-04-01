@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240401101639
+!Version: 20240401173902
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 88088
+!Total lines: 88089
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -60164,6 +60164,7 @@
 ||poleaxefoamers.com^
 ||stats.polekatfitness.com^
 ||go.polen-app.com^
+||polepole.cn^
 ||t.police1.com^
 ||policeair.com^
 ||policecaravanallure.com^
