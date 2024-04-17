@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240417100811
+!Version: 20240417173916
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 89803
+!Total lines: 89807
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -3544,6 +3544,7 @@
 ||adbuyer.com^
 ||adbxb.com^
 ||adc-serv.net^
+||adc-teasers.com^
 ||monitor.adcaffe.com^
 ||search.adcaffe.com^
 ||adcalls.nl^
@@ -30272,6 +30273,7 @@
 ||app.response.firstdata.com^
 ||omnis.firstdata.com^
 ||respond.firstdata.com^
+||firstendpoint.com^
 ||firstfrogs.com^
 ||a1.firstgw.com^
 ||firsthandtie.com^
@@ -55132,6 +55134,7 @@
 ||nnncrox.com^
 ||nnnfqegwes.xyz^
 ||infostroy.nnov.ru^
+||nnowa.com^
 ||nnoyigqsvjud.com^
 ||nnqwe.xyz^
 ||nnrbyty.xyz^
@@ -69496,6 +69499,7 @@
 ||sentimenthypocrisy.com^
 ||sentimentsvarious.com^
 ||marketing.sentinelgroup.com^
+||sentinelp.com^
 ||marketing.sentirlabs.com^
 ||sentry-cdn.top^
 ||sentry.io^
