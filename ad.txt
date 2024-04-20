@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240420100551
+!Version: 20240420173851
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 89960
+!Total lines: 89964
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -2265,6 +2265,8 @@
 ||88lm07.com^
 ||88lm08.com^
 ||88lm09.com^
+||88lm10.com^
+||88lm11.com^
 ||88ng.com^
 ||88shu.cn^
 ||88tzpf.com^
@@ -55546,6 +55548,7 @@
 ||notify6.com^
 ||notifydisparage.com^
 ||notifyerr.com^
+||notifyglass.com^
 ||notifyoutspoken.com^
 ||notifypicture.info^
 ||notifysrv.com^
@@ -75089,6 +75092,7 @@
 ||szbxw.cn^
 ||szbzp.cn^
 ||wm.szdushi.com.cn^
+||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
 ||szhcyxtszb.com^
