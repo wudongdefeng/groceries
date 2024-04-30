@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240430100840
+!Version: 20240430173936
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90047
+!Total lines: 90050
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -60758,6 +60758,7 @@
 ||r.pixgold.com^
 ||piximedia.com^
 ||pixinform.com^
+||imp.pixiv.net^
 ||inbound-analytics.pixlee.co^
 ||ocelot.pixlwebs.nl^
 ||opim.pixmania.com^
@@ -70745,6 +70746,7 @@
 ||link.siftfoodlabels.com^
 ||siftscience.com^
 ||sifuglie.com^
+||sifuwei.com^
 ||sifyeldb.top^
 ||connect.sigbee.com^
 ||bandicoot.sigerr.org^
@@ -80334,6 +80336,7 @@
 ||get.ukg.in^
 ||get.ukg.mx^
 ||get.ukg.nl^
+||ukgfniu.cn^
 ||ukidiayddbshfl.com^
 ||ukizeiasninan.info^
 ||ukjwyv.icu^
