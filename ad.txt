@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240516101130
+!Version: 20240516173908
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90663
+!Total lines: 90665
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -24857,6 +24857,7 @@
 ||dpstack.com^
 ||angelfish.dpya.com^
 ||dpyaxzpudhp.com^
+||dpzplb.xyz^
 ||m.dq.ca^
 ||m.dq.com^
 ||dq95d35.com^
@@ -31881,6 +31882,7 @@
 ||fredblclronvyt.com^
 ||images.eloqua.fredhutch.org^
 ||fredmoresco.com^
+||fredum.cn^
 ||free-counter.co.uk^
 ||free-counter.com^
 ||free-counters.co.uk^
