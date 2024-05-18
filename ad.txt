@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240517173907
+!Version: 20240518101145
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90719
+!Total lines: 90747
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.sellpoint.net^
@@ -189,6 +189,7 @@
 @@||ads.tdbank.com^
 @@||ads.twitter.com^
 @@||ads.vk.com^
+@@||ads.x.com^
 @@||ui.ads.microsoft.com^
 @@||adm.10jqka.com.cn^
 /^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
@@ -2435,6 +2436,7 @@
 ||999aa666bb.com^
 ||999bb222ww.com^
 ||999d.com^
+||999db.cn^
 ||999pro.top^
 ||999xx333kk.com^
 ||999xx999kk.com^
@@ -8348,6 +8350,7 @@
 ||asklinklanger.com^
 ||asklots.com^
 ||dabu.askmediagroup.com^
+||parallax.askmediagroup.com^
 ||stats.homepage-2021.askmiso-dev.com^
 ||hstats.askmiso.com^
 ||askprivate.com^
@@ -16369,6 +16372,7 @@
 ||smetric.cheddars.com^
 ||cheebetoops.com^
 ||cheecmou.com^
+||cheeghek.xyz^
 ||cheekobsu.com^
 ||cheekysleepyreproof.com^
 ||cheelroo.net^
@@ -16459,6 +16463,7 @@
 ||client-metrics.chess.com^
 ||chesscherry.com^
 ||chesscolor.com^
+||chesscrowd.com^
 ||chesterstandard-gb.chesterstandard.co.uk^
 ||allnews.chestertelegraph.org^
 ||chestishugli.com^
@@ -19893,6 +19898,7 @@
 ||connct-9.com^
 ||connectad.io^
 ||marketing.connectandsell.com^
+||connectashelf.com^
 ||dl.connectedboat.eu^
 ||connectedchaise.com^
 ||outreach.connectednation.org^
@@ -20794,6 +20800,7 @@
 ||omns.crackle.com^
 ||crackquarrelsomeslower.com^
 ||cracktraumatic.com^
+||crackyunfence.com^
 ||cradspbsdarltng.com^
 ||a.craftbeerclub.com.ua^
 ||crafthenry.com^
@@ -21814,6 +21821,7 @@
 ||daicagrithi.com^
 ||a8clk.takuhai.daichi-m.co.jp^
 ||daichoho.com^
+||daichukoah.net^
 ||daicoaky.net^
 ||sstats.daicompanies.com^
 ||bears.daigostudio.com^
@@ -33728,6 +33736,7 @@
 ||giliakmisdaub.com^
 ||somni.giljimenez.com^
 ||gilledwebeye.life^
+||gillnetstold.com^
 ||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
@@ -46819,6 +46828,7 @@
 ||lemonicecold.org^
 ||ressources.lemoniteur.com^
 ||lemonpi.io^
+||lemonsandjoy.com^
 ||lemotherofhe.com^
 ||lemouwee.com^
 ||lempeehu.xyz^
@@ -47753,6 +47763,7 @@
 ||ljbwzlmzlzbkm.top^
 ||ljcsrrrhvu.com^
 ||ljdlgunextreyk.xyz^
+||ljdofz.xyz^
 ||ljfncdojjuorjxu.com^
 ||ljhbhy.cn^
 ||ljlbzdqznogl.com^
@@ -48871,6 +48882,7 @@
 ||lwhyihajamafu.com^
 ||lwide.xyz^
 ||lwjdefxsrithve.com^
+||lwjje.com^
 ||lwjvyd.com^
 ||lwlagvxxyyuha.xyz^
 ||lwmbc.cn^
@@ -52873,6 +52885,7 @@
 ||mqabjtgli.xyz^
 ||mqaqtwkbwcqty.xyz^
 ||mqcjqjhy.com^
+||mqcoycx.icu^
 ||mqdeeisghdpd.xyz^
 ||mqjqripb.xyz^
 ||mqkuzy.com^
@@ -59747,6 +59760,7 @@
 ||pathlime.com^
 ||pathlinex.com^
 ||pathloaded.com^
+||tk.pathmonk.com^
 ||pathosacetals.com^
 ||pathsectorostentatious.com^
 ||g.pathsha.re^
@@ -62926,6 +62940,7 @@
 ||productivepear.com^
 ||tgmklw.productreview.com.au^
 ||productsup.com^
+||productsurfer.com^
 ||app.producttube.com^
 ||communications.prodways.com^
 ||proeroclips.pro^
@@ -64604,6 +64619,7 @@
 ||qprthjab.com^
 ||qpvbsekwtwsoe.com^
 ||qpwoei2.com^
+||qpzegye.cn^
 ||qpztub.xyz^
 ||a.ac.qq.com^
 ||adping.qq.com^
@@ -64977,6 +64993,7 @@
 ||dbj.quebecregion.com^
 ||waati.quechoisir.org^
 ||quedo.buzz^
+||queenskart.com^
 ||nsteq.queensland.com^
 ||images.learn.queenslibrary.org^
 ||marketing.queenstownnz.nz^
@@ -65609,6 +65626,7 @@
 ||rapidstats.net^
 ||rapidtrk.net^
 ||rapidzebra.io^
+||rapingdistil.com^
 ||rapolok.com^
 ||xz.rapsseme.com^
 ||rapt.com^
@@ -65861,6 +65879,7 @@
 ||reactful.com^
 ||stats.reactician.com^
 ||trendads.reactivebetting.com^
+||reactjspdf.com^
 ||plausible.reactpreview.com^
 ||stats.reactshowcase.com^
 ||reactx.com^
@@ -69434,6 +69453,7 @@
 ||info.scene7.com^
 ||scenerynatives.com^
 ||scenespathreconciliation.com^
+||scenicapparel.com^
 ||scenistgracy.life^
 ||sceno.ru^
 ||scentbracehardship.com^
@@ -71174,6 +71194,7 @@
 ||si1ef.com^
 ||eulerian.siandso.com^
 ||sibautomation.com^
+||cmp.sibbo.net^
 ||count.sibbo.net^
 ||sibcjyml.com^
 ||sibehgtq.xyz^
@@ -72392,6 +72413,7 @@
 ||jeyttn.snipes.com^
 ||joqawz.snipes.nl^
 ||sniphub.com^
+||snipishdements.com^
 ||snippystowstool.com^
 ||snippyteevee.com^
 ||link.snippz.com^
@@ -75674,6 +75696,7 @@
 ||sysoutvariola.com^
 ||marketing.systancia.com^
 ||system-notify.app^
+||rampjs-cdn.system1.com^
 ||fp27ee.wac.systemcdn.net^
 ||systeme-business.online^
 ||systemengagedwisely.com^
@@ -77067,6 +77090,7 @@
 ||tggsd07.com^
 ||images.care.tgh.org^
 ||tghbn12.com^
+||tgidskii.top^
 ||tgjdbx.xyz^
 ||tgknt.com^
 ||tglyr.co^
@@ -80400,6 +80424,7 @@
 ||txeefgcutifv.info^
 ||coyote.txet.ch^
 ||txgeszx.com^
+||txhfgwgkwt7.asia^
 ||txhrnluuyt.com^
 ||txjhmbn.com^
 ||txmeeqz.icu^
@@ -82227,6 +82252,7 @@
 ||uyjxzvu.com^
 ||uym11.xyz^
 ||uymahuxv.xyz^
+||uyohyy.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
 ||uysdxmo.com^
@@ -85324,7 +85350,7 @@
 ||cat.weddingsabroad.com^
 ||target.wedenik.com^
 ||wedflossbecause.com^
-||mh.wedgedgeoduck.com^
+||wedgedgeoduck.com^
 ||wedgierbirsit.com^
 ||aeuati.wedio.com^
 ||wednesdaygranddadlecture.com^
@@ -88363,6 +88389,7 @@
 ||xyrkotsqhaf.com^
 ||xyryjt.xyz^
 ||xysgfqnara.xyz^
+||xytcboyz.icu^
 ||xyvjkdec.com^
 ||a.xywy.com^
 ||bdmjs.xywy.com^
@@ -90439,6 +90466,7 @@
 ||refwkk.zoznam.sk^
 ||rtm-tracking.zozo.jp^
 ||zozolilla.com^
+||zozwnv.xyz^
 ||zp0573.cn^
 ||zp0737.com^
 ||rmxhti.zpacks.com^
