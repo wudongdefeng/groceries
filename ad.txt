@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240531101858
+!Version: 20240531173915
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91448
+!Total lines: 91449
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -50951,6 +50951,7 @@
 ||web.care.mclaren.org^
 ||mcloudglobal.com^
 ||mclude.com^
+||cdn.mcnn.pl^
 ||marketing.mcommgroup.com^
 ||mcontigo.com^
 ||mcoreads.com^
