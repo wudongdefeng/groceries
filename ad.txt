@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240604101938
+!Version: 20240604173943
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90529
+!Total lines: 90530
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -12179,6 +12179,7 @@
 ||bat.bing.net^
 ||telemetry.appex.bing.net^
 ||bing001.shop^
+||bing005.shop^
 ||t.prod1.discover.binge.com.au^
 ||axp.binghamtonhomepage.com^
 ||assets2.bingle.com.au^
@@ -25985,6 +25986,7 @@
 ||dyxsmj.net^
 ||dyygsgxhfrlo.xyz^
 ||dyysxwjeyfiysrs.com^
+||dyzgdp.xyz^
 ||dz4ad.com^
 ||dzais.com^
 ||target.dzbank.de^
@@ -84136,8 +84138,7 @@
 ||vttbtsamsbbcpgy.com^
 ||vttqld.xyz^
 ||vttyjakvvdce.com^
-||vturb.com.br^
-||vturb.net^
+||a.vturb.net^
 ||vtveyowwjvz.com^
 ||vtvkkbasfm.com^
 ||vtvnnl.xyz^
