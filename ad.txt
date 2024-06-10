@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240610102337
+!Version: 20240610173935
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90719
+!Total lines: 90721
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -9280,6 +9280,7 @@
 ||a8cv.auhikari-bykddi.com^
 ||acv.auhikari-norikae.com^
 ||auisaoa.top^
+||auislq.top^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukarosizox.com^
@@ -76229,6 +76230,7 @@
 ||z3617cz9ep.fitness.tappbrothers.com^
 ||tapproveofchild.info^
 ||tappx.com^
+||taproximo.com^
 ||taprtopcldfa.co^
 ||taprtopcldfard.co^
 ||taprtopcldfb.co^
