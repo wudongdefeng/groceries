@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240615101953
+!Version: 20240615173847
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90958
+!Total lines: 90961
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -2843,6 +2843,7 @@
 ||91wan.com^
 ||a.91zhongkao.com^
 ||bdjs.91zhuti.com^
+||9216tp1.com^
 ||9270.com.cn^
 ||js.92aliyun.com^
 ||92by17snes4.cc^
@@ -48296,6 +48297,7 @@
 ||lnkrdr.com^
 ||lnkvv.com^
 ||lnkyqvkyznkvz.top^
+||lnlkmr.xyz^
 ||lnlxhsjjqfjs.com^
 ||lnmreidn.com^
 ||lnonsoygtt.com^
@@ -75941,6 +75943,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szdpk.cn^
 ||wm.szdushi.com.cn^
 ||szfmr.cn^
 ||szftg.cn^
