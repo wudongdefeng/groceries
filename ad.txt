@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240619102226
+!Version: 20240619173959
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90938
+!Total lines: 90941
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -61288,6 +61288,7 @@
 ||pdsgaj.piquadro.com^
 ||web.news.piquadro.com^
 ||piquantgrove.com^
+||piquantmeadow.com^
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantstove.com^
@@ -63452,6 +63453,7 @@
 ||prre.ru^
 ||prscripts.com^
 ||prt-or-067.com^
+||prtadf.xyz^
 ||prtawe.com^
 ||prtord.com^
 ||prtracker.com^
@@ -75893,6 +75895,7 @@
 ||szdgl.cn^
 ||szdpk.cn^
 ||wm.szdushi.com.cn^
+||szdxw.cn^
 ||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
