@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240702173853
+!Version: 20240703102101
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90276
+!Total lines: 90291
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -100,7 +100,6 @@
 @@||sdkapi.sms.mob.com^
 @@||stats.gov.cn^
 @@||tj.gov.cn^
-@@||sax.sina.com.cn^
 @@||news-app.abumedia.yql.yahoo.com^
 @@||meizu.coapi.moji.com^
 @@||track.cpau.info^
@@ -217,6 +216,7 @@
 /^(\S+\.)?adservice\.google\./
 /^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
+@@||sax.sina.com.cn^
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
@@ -2546,6 +2546,7 @@
 ||cc.8181zx.com^
 ||d.8181zx.com^
 ||vdrigb.8190.jp^
+||8208tp.com^
 ||82308721ac.com^
 ||827fa7c868b4b.com^
 ||8289.tv^
@@ -2668,7 +2669,7 @@
 ||8345efe11f.8d742929b8.com^
 ||8d8e6d1087.com^
 ||8d96fe2f01.com^
-||b4c340b5c1.8db4fde90b.com^
+||8db4fde90b.com^
 ||8de2448875.com^
 ||8dfc9560e0.com^
 ||yngnwe.8division.com^
@@ -9297,6 +9298,7 @@
 ||aurgoast.com^
 ||aurorapush.cn^
 ||aurorapush.com^
+||auroraveil.bid^
 ||aurousroseola.com^
 ||aursaign.net^
 ||ausaas.cn^
@@ -19144,6 +19146,7 @@
 ||cmpsywu.com^
 ||cmptch.com^
 ||cmqjims.com^
+||cmqxy.cn^
 ||cmrdr.com^
 ||adobe-ep.cms.gov^
 ||cms.lv^
@@ -22431,6 +22434,7 @@
 ||analyticsresults.dev.datev.de^
 ||datewhisper.life^
 ||datexchanges.net^
+||datexurlove.com^
 ||datherap.xyz^
 ||dating-banners.com^
 ||dating-roo3.site^
@@ -30439,6 +30443,7 @@
 ||fihsgqbif.com^
 ||fiinann.com^
 ||fiinnancesur.com^
+||fiiqmjyrznkhbv.com^
 ||fiisscqwokt.com^
 ||fijekone.com^
 ||fijipic.xyz^
@@ -38873,6 +38878,7 @@
 ||campaigns.hygiena.com^
 ||hygqtz.cn^
 ||hyibpgaa.com^
+||hyislou.top^
 ||pix.hyj.mobi^
 ||hyjbdt.xyz^
 ||hylaxngo.xyz^
@@ -39424,6 +39430,7 @@
 ||idioticstoop.com^
 ||idiotminority.com^
 ||idiotproprietary.com^
+||idipsumo.top^
 ||insights.idispharma.com^
 ||iditolshewn.com^
 ||a8.idiy.biz^
@@ -39956,6 +39963,7 @@
 ||imgint1.com^
 ||ads-yallo-production.imgix.net^
 ||imgopen.vip^
+||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
 ||imgqmng.com^
@@ -41473,6 +41481,7 @@
 ||iotechnologies.com^
 ||reg.iotworldtoday.com^
 ||iovation.com^
+||iovia-pmj.com^
 ||iovxhfavijyu.com^
 ||app.iowaeventscenter.com^
 ||info.iowaeventscenter.com^
@@ -42428,6 +42437,7 @@
 ||jbhhxd.xyz^
 ||jbirahiifj.com^
 ||bee.jbkmobiledj.com^
+||jbkqemk.icu^
 ||a8cv.jbl-link.com^
 ||ftmsyy.jbl.com.br^
 ||jbm6c54upkui.com^
@@ -45486,7 +45496,6 @@
 ||kshrsf.icu^
 ||kshzlyvbaaa.com^
 ||ksk-mjto-001.com^
-||kskwai.com^
 ||y.ksl.com^
 ||kslbahd.top^
 ||behacdn.ksmobile.net^
@@ -58521,6 +58530,7 @@
 ||ovcenehu.com^
 ||ovdimin.buzz^
 ||oveechoops.xyz^
+||ovejqw.xyz^
 ||ovemes.com^
 ||ovenbifaces.cam^
 ||ovenge.com^
@@ -61366,6 +61376,7 @@
 ||pntrs.com^
 ||pnufzbzzomt.com^
 ||pnuhondppw.com^
+||pnvtlh.xyz^
 ||pnvypcuqqyu.com^
 ||pnxtnp.xyz^
 ||pnxtsauba.com^
@@ -62360,6 +62371,7 @@
 ||pretrackings.com^
 ||sole.pretto.fr^
 ||pretty-size.pro^
+||pretty-sluts-nearby.com^
 ||hoseyy.prettylittlething.com^
 ||prettypasttime.com^
 ||prettypermission.pro^
@@ -66465,6 +66477,7 @@
 ||reryn3ce.com^
 ||rerynjia.com^
 ||rerynjie.com^
+||rerynjua.com^
 ||res-x.com^
 ||resailsgyse.com^
 ||no.resailslemures.com^
@@ -66833,6 +66846,7 @@
 ||rftslb.com^
 ||rfxnff.xyz^
 ||rfxxjpuh.com^
+||rfzlfsedzesgp.com^
 ||rgauwvaznptsx.com^
 ||rgbnqmz.com^
 ||rgbvgxfcp.xyz^
@@ -73559,11 +73573,7 @@
 ||startsprepenseprepensevessel.com^
 ||hare.startupbootcamp.com.au^
 ||startwebpromo.com^
-||tq-eu.starvalue-4.online^
-||tq.starvalue-4.online^
-||xml-eu-v4.starvalue-4.online^
-||xml-v4.starvalue-4.online^
-||xml.starvalue-4.online^
+||starvalue-4.online^
 ||starvardsee.xyz^
 ||starvationdefence.com^
 ||starvegingerwaist.com^
@@ -76160,6 +76170,7 @@
 ||teayeoutm.com^
 ||teazledbyes.com^
 ||teazledsudsman.top^
+||cookiewarden-content.teb.com.tr^
 ||tebeveck.xyz^
 ||tg.tebiezhuan.com^
 ||tebohjhh.xyz^
@@ -77917,6 +77928,7 @@
 ||tlootas.org^
 ||tlprbzoi.com^
 ||tlprlf.xyz^
+||tlpyft.xyz^
 ||tlrkcj17.de^
 ||plausible.app.tlschedule.com^
 ||plausible.tlschedule.com^
@@ -79201,6 +79213,7 @@
 ||images.go.trimarkusa.com^
 ||stats.trimbles.ie^
 ||app.trimenu.com^
+||trimpagkygg.com^
 ||trimpur.com^
 ||trimregular.com^
 ||marketing.trimtabconsultants.com^
@@ -79346,6 +79359,7 @@
 ||truanet.com^
 ||truantslaughterbrew.com^
 ||truantsnarestrand.com^
+||truazka.xyz^
 ||marketing.trubridge.com^
 ||truceforensicswaterfall.com^
 ||trucemallow.website^
@@ -90063,6 +90077,7 @@
 ||zsnfdphz.com^
 ||zsrqmgvb.com^
 ||zswhcsfww.mobi^
+||zsxeymv.com^
 ||zsyk91.cn^
 ||zszgjiejuw.mobi^
 ||zszhln.xyz^
