@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240705102138
+!Version: 20240705173848
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91246
+!Total lines: 91250
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -24741,6 +24741,7 @@
 ||trac.i3.dmm.com^
 ||dmmgjsymlrfp.com^
 ||dmnprx.com^
+||dmnxkj.cn^
 ||dmoldsusvkpa.xyz^
 ||x.dmouy.cn^
 ||dmowvblljmkqx.com^
@@ -36173,6 +36174,7 @@
 ||gw100-10.com^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||marketing.gwcontainers.com^
@@ -50396,6 +50398,7 @@
 ||matsubun.matsubun.com^
 ||a8clk.account.matsui.co.jp^
 ||adebis8628.matsui.co.jp^
+||mail-count.matsui.co.jp^
 ||sjmbua.matsui.co.jp^
 ||a8cv.shop.matsuo1956.jp^
 ||matswhyask.cam^
@@ -58775,6 +58778,7 @@
 ||go.ortholive.com^
 ||secure.orthology.com^
 ||orthronsmatter.com^
+||ortlisk.top^
 ||ortontotlejohn.com^
 ||stats.ortussolutions.com^
 ||eiorzm.orvis.com^
