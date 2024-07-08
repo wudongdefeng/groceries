@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240708102436
+!Version: 20240708173848
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91301
+!Total lines: 91302
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -65482,6 +65482,7 @@
 ||quicklisti.com^
 ||quicklymuseum.com^
 ||quickorange.com^
+||quickpcfixer.click^
 ||quicksandear.com^
 ||stats.quicksilvercre.com^
 ||quicksitting.com^
