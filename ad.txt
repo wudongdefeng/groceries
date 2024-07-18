@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240718102329
+!Version: 20240718174012
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91934
+!Total lines: 91942
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -174,6 +174,7 @@
 @@||star.fallback.c10r.facebook.com^
 @@||ads.cdn.tvb.com^
 @@||ads.console.aliyun.com^
+@@||tracking.ubisoft.com^
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\.[0-9\-a-z]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 @@||ad.vivo.com.cn^
@@ -2489,7 +2490,6 @@
 ||7lyonline.com^
 ||7me0ssd6.de^
 ||7mediaxx-ai.com^
-||7moor-fs1.com^
 ||7nt9p4d4.de^
 ||7ohy3f.cn^
 ||7pisem.com^
@@ -5018,7 +5018,6 @@
 ||adthletic.com^
 ||adthrive.com^
 ||adreport.adtianmai.com^
-||https-filtering-check.adtidy.org^
 ||adtilt.com^
 ||adtimaserver.vn^
 ||adtiming.com^
@@ -10484,6 +10483,7 @@
 ||pic.baihuawen.cn^
 ||baihuiad.com^
 ||baihuwang.com^
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -13463,6 +13463,9 @@
 ||boostog.net^
 ||share.boostorder.com^
 ||polhvf.bootbarn.com^
+||bootcdn.cn^
+||bootcdn.net^
+||bootcss.com^
 ||bootharchie.com^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -25360,6 +25363,7 @@
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -35318,6 +35322,7 @@
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||adsense.google.cn^
 ||fcmatch.google.com^
 ||fundingchoicesmessages.google.com^
@@ -38261,6 +38266,7 @@
 ||hjnjjcw.xyz^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
+||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
@@ -74986,6 +74992,8 @@
 ||scripts.static-od.com^
 ||static-sb.com^
 ||static-srv.com^
+||staticfile.net^
+||staticfile.org^
 ||px.staticfiles.at^
 ||staticiv.com^
 ||pingo.staticmoly.me^
