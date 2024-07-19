@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240718174012
+!Version: 20240719102433
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91942
+!Total lines: 91959
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -10115,6 +10115,7 @@
 ||adblockers.b-cdn.net^
 ||admost-banner.b-cdn.net^
 ||ads-delivery.b-cdn.net^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||bbangads.b-cdn.net^
 ||beamanalytics.b-cdn.net^
 ||bs-adserver.b-cdn.net^
@@ -14813,6 +14814,7 @@
 ||bxmns.com^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
+||bxoaeju.icu^
 ||bxoiksm.xyz^
 ||bxpjpkldxrsss.xyz^
 ||bxrfbsrlerio.com^
@@ -16805,6 +16807,7 @@
 ||ssgg.chazidian.com^
 ||yong.chazidian.com^
 ||chbheroq.xyz^
+||chbujyjyvshtcr.com^
 ||chd-daolujiance.com^
 ||webtrack.chd01.com^
 ||bdasd.chdbook.cn^
@@ -23906,6 +23909,7 @@
 ||810236abc0.dfec4f079e.com^
 ||dfejqmh.cn^
 ||dfepsqnbje.com^
+||dffa09cade.com^
 ||dbd9542946.dffc7e343b.com^
 ||dffhhqka.com^
 ||dffrahax.com^
@@ -36562,6 +36566,8 @@
 ||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
+||effect.habr.com^
+||stats.habr.com^
 ||images.marketing.habtoormotors.com^
 ||habutaeunroost.com^
 ||campaign.hach.com.cn^
@@ -38958,6 +38964,7 @@
 ||hpcwwd.com^
 ||etrack.ext.hpe.com^
 ||images.connect.hpe.com^
+||hpeaxbmuh.com^
 ||hpepeepce.com^
 ||hpgmkbt.icu^
 ||hphvd.cn^
@@ -43306,6 +43313,7 @@
 ||jekzyyowqwmwl.top^
 ||jekzyyowqwwrz.top^
 ||jekzyyowqwwwy.top^
+||jelliescroon.click^
 ||jellifygummier.top^
 ||jelllearnedhungry.com^
 ||web.marketing.jellybelly.com^
@@ -44260,6 +44268,7 @@
 ||jscoinminer.com^
 ||jscount.com^
 ||ele26126.jscrambler.com^
+||jsdelivr.vip^
 ||jsdelvr.com^
 ||jsecoin.com^
 ||jsefrmwji.com^
@@ -45069,6 +45078,7 @@
 ||9544702.kazooby.com^
 ||kazqkjyztvv.com^
 ||kbadguhvqig.xyz^
+||kbadkxocv.com^
 ||kbao7755.de^
 ||kbayke.xyz^
 ||exhibit.kbb.co.uk^
@@ -49870,6 +49880,7 @@
 ||oms.macleans.ca^
 ||a8cv.macloud.jp^
 ||mlhtmc.macnificos.com^
+||macoms.la^
 ||stats.macosicons.com^
 ||a8clk.macpaw.com^
 ||app.mail.mfg.macquarie.com^
@@ -51115,6 +51126,7 @@
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||kiwi.mdldb.net^
@@ -57783,6 +57795,7 @@
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
 ||ofdxfsho.com^
+||ofebyk.xyz^
 ||ofedupub.com^
 ||ofeetles.pro^
 ||sadbmetrics.oferplan.com^
@@ -59589,6 +59602,7 @@
 ||fmqidg.ouvirmusica.com.br^
 ||ouvrestance.com^
 ||ouwhejoacie.xyz^
+||ouxourtoo.com^
 ||ouyoqudevfal.com^
 ||syndication.ouzads.com^
 ||ouzavamt.com^
@@ -64326,6 +64340,7 @@
 ||ptaissud.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
+||ptamselrou.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptaughar.com^
@@ -66931,6 +66946,7 @@
 ||rebillsegomism.com^
 ||rebindskayoes.com^
 ||a8clk.www.rebo-success.co.jp^
+||rebojf.xyz^
 ||tr.info.rebond-bpifrance.fr^
 ||promo.reborncabinets.com^
 ||rebrew-foofteen.com^
@@ -81361,6 +81377,7 @@
 ||recontent.services.tvn.pl^
 ||scontent.services.tvn.pl^
 ||tvpixel.com^
+||tvpqnh.xyz^
 ||tvpqrydt.xyz^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
