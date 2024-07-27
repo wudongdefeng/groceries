@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240726173853
+!Version: 20240727102204
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 90978
+!Total lines: 91011
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -231,7 +231,6 @@
 /^(\S+\.)?[0-9a-f]{15,}\.com$/
 /^(\S+\.)?[0-9a-z]{16,}\.xyz$/
 @@||inazumaotoshifansub.xyz^
-@@||uploadedpremiumlink.xyz^
 /^(\S+\.)?ad[0-9]{3,}m.com$/
 /^(\S+\.)?aj[0-9]{4,}.online$/
 /^(\S+\.)?ylx-[0-9].com$/
@@ -2042,6 +2041,7 @@
 ||5advertise.com^
 ||47dff461d7.5afd9ec0ab.com^
 ||5b10f288ee.com^
+||5b3fbababb.com^
 ||027f8ac71a.5b4ed922fe.com^
 ||7a5ca91371.5b5846c196.com^
 ||40dd6c8f55.5b7cb7236e.com^
@@ -10445,6 +10445,7 @@
 ||baihuwang.com^
 ||baijs010.xyz^
 ||baijs011.xyz^
+||baijs02.shop^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -17100,6 +17101,7 @@
 ||alsgaj.chosun.com^
 ||cad.chosun.com^
 ||choto.xyz^
+||chouchicky.com^
 ||choudairtu.net^
 ||chouftak.net^
 ||choughigrool.com^
@@ -24065,6 +24067,7 @@
 ||difficultyefforlessefforlessthump.com^
 ||difficultyhobblefrown.com^
 ||diffidentniecesflourish.com^
+||diffusedpassionquaking.com^
 ||diffusion-tracker.com^
 ||difhil.icu^
 ||difice-milton.com^
@@ -25267,6 +25270,7 @@
 ||doujs01.shop^
 ||doujs01.xyz^
 ||doujs010.xyz^
+||doujs02.shop^
 ||doujs02.xyz^
 ||doujs03.xyz^
 ||doujs05.xyz^
@@ -27533,6 +27537,7 @@
 ||s.elnc34.com^
 ||s.elnc35.com^
 ||s.elnc36.com^
+||elneagog.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
 ||s.elnk90.com^
@@ -36371,6 +36376,7 @@
 ||gzsadlmy.cn^
 ||gzsanxiaomingshi.cn^
 ||gzsscr.cn^
+||gzwehmnm.com^
 ||gzxnlk.com^
 ||gzzbb.net^
 ||gzzkjdam.cn^
@@ -39085,6 +39091,7 @@
 ||app.go.hult.edu^
 ||t2.hulu.com^
 ||vortex.hulu.com^
+||hum.works^
 ||humaffableconsulate.com^
 ||origin-target.humana.com^
 ||app.humanaresponses.com^
@@ -42458,6 +42465,7 @@
 ||ittontrinevengre.info^
 ||ittorchicer.com^
 ||ittoxicroakon.club^
+||itukydteamwouk.com^
 ||itundermineoperative.com^
 ||itupjhlxjyxacl.com^
 ||itupnjqqjbxxqt.com^
@@ -42558,6 +42566,7 @@
 ||iwxtbaoqgcxfdd.xyz^
 ||iwyrldaeiyv.com^
 ||linkx.ix.tc^
+||ixafr.com^
 ||cvhefd.ixbt.com^
 ||ixbwwwv.com^
 ||ixhbroslylgz.com^
@@ -42750,6 +42759,7 @@
 ||jackal.jakerunzer.com^
 ||jakescribble.com^
 ||jakeycorkage.digital^
+||jakosoafdom.shop^
 ||r.jakuli.com^
 ||dragonfly.jala-one.com^
 ||aa-metrics.jalan.net^
@@ -43072,6 +43082,7 @@
 ||hornet.jeffgable.com^
 ||apps.jeffgalloway.com^
 ||jefweev.com^
+||jeghosso.net^
 ||ylsjdq.jegs.com^
 ||jehobsee.com^
 ||jekesjzv.com^
@@ -43373,6 +43384,7 @@
 ||jipsegoasho.com^
 ||jiqeni.xyz^
 ||1.jiqie.cn^
+||jiqiv.com^
 ||jirafe.com^
 ||mad1.jirou.com^
 ||jirtesee.net^
@@ -44564,6 +44576,7 @@
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
 ||kalifthorons.top^
+||kallimaacoasm.com^
 ||kalmukrattail.com^
 ||kalpaksaffect.top^
 ||kalseech.xyz^
@@ -44633,6 +44646,7 @@
 ||adebis.kaonavi.jp^
 ||kaorpyqtjjld.com^
 ||kaosts.com^
+||sayac.kapital.com.tr^
 ||kapitalberg.com^
 ||hrnhcu.kapiva.in^
 ||kaplay.com^
@@ -49417,6 +49431,7 @@
 ||app.go.maas360.com^
 ||app1.maatwerkonline.nl^
 ||mabaya.com^
+||mabdkggqleseuhj.com^
 ||mabelasateens.com^
 ||mabipa.com^
 ||maboazolsamp.com^
@@ -51661,6 +51676,7 @@
 ||midnightconsessionconsession.com^
 ||midnightcontemn.com^
 ||link.midnite.com^
+||midnoonfrigate.shop^
 ||midootib.net^
 ||ldv.midoplay.com^
 ||client.midosoo.com^
@@ -54911,6 +54927,7 @@
 ||info.nescornow.com^
 ||nesefurthere.info^
 ||nesfspublicate.info^
+||neshigreek.com^
 ||nesiotcusses.space^
 ||neslaveswedge.guru^
 ||nesokiahld.com^
@@ -58533,6 +58550,7 @@
 ||oqnabsatfn.com^
 ||oqnfsivlp.com^
 ||oqnkur.icu^
+||oqpahlskaqal.com^
 ||oqsttfy.com^
 ||qnbskk.oqvestir.com.br^
 ||oqvucp.icu^
@@ -59289,6 +59307,7 @@
 ||oxmqzeszyo.com^
 ||oxmvcg.xyz^
 ||oxnhhswdzwam.com^
+||oxoucm.xyz^
 ||oxowcjxiffsj.com^
 ||oxrqdkfftw.com^
 ||oxrvfsi.xyz^
@@ -59334,6 +59353,7 @@
 ||stats.oyster.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
+||oytoworkwithcatuk.com^
 ||oyugspe.cn^
 ||osuwzo.oyunfor.com^
 ||oyuvcqmqjyrqd.com^
@@ -61104,6 +61124,7 @@
 ||phooghoo.com^
 ||phoognol.com^
 ||phoojeex.xyz^
+||phookroamte.xyz^
 ||phooreew.net^
 ||phoossax.net^
 ||phoosuss.net^
@@ -61723,6 +61744,7 @@
 ||zd.plattedrattons.com^
 ||tlsalw.platypusshoes.co.nz^
 ||fdixsh.platypusshoes.com.au^
+||plausible-analytics.xyz^
 ||plausible.io^
 ||plausiblecable.com^
 ||plausiblecdn.co^
@@ -70370,6 +70392,7 @@
 ||images.marketing.selligent.com^
 ||sellingmombookstore.com^
 ||sellingtandays.com^
+||sellisteatin.com^
 ||sellpoint.net^
 ||sellpoints.com^
 ||selornews.com^
@@ -70649,6 +70672,7 @@
 ||setidlgzwc.com^
 ||referral.setipe.com^
 ||setitoefanyor.org^
+||setlwsb.top^
 ||setoniale.com^
 ||setopsdata.com^
 ||digital.setpointis.com^
@@ -70663,6 +70687,7 @@
 ||gvl-dev.setupcmp.com^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
+||seullocogimmous.com^
 ||seutop.icu^
 ||sev4ifmxa.com^
 ||stats.seva.rocks^
@@ -72476,6 +72501,7 @@
 ||telemetry.smartframe.io^
 ||tracker.smartframe.io^
 ||admin.smartgroup.com.au^
+||smartico.ai^
 ||smartico.one^
 ||go.smartjobr.com^
 ||aphid.smartjournal.no^
@@ -73727,6 +73753,7 @@
 ||splief.com^
 ||stats.splinder.com^
 ||splinky.com^
+||splintmuses.com^
 ||events.split.io^
 ||splitbee.io^
 ||dajdnm.splits59.com^
@@ -74257,6 +74284,7 @@
 ||alwayscare.starmountlife.com^
 ||a8cv.starpeg-music.com^
 ||marketing.starrcompanies.com^
+||starredvs.com^
 ||starry-galaxy.com^
 ||stat.stars.ru^
 ||starsaug.com^
@@ -80617,6 +80645,7 @@
 ||sk.tuskersecklein.com^
 ||tuskhautein.com^
 ||tusno.com^
+||tussisinjelly.com^
 ||tutad.ru^
 ||trk.tuthillpump.com^
 ||links.tutorbin.com^
@@ -86887,6 +86916,7 @@
 ||wnjtssmha.com^
 ||wnllmyw.xyz^
 ||wnmaoc.xyz^
+||wnmoobz.icu^
 ||wnootzc.icu^
 ||wnp.com^
 ||wnrusisedprivatedq.info^
@@ -88467,6 +88497,7 @@
 ||xtremepush.com^
 ||xtremeserve.xyz^
 ||xtremline.com^
+||xtrkhv.xyz^
 ||xttaff.com^
 ||xtvhkbqmhqu.xyz^
 ||xtvrgxbiteit.xyz^
@@ -89792,6 +89823,7 @@
 ||ywgpkjg.com^
 ||ywhowascryin.com^
 ||ywhws.cn^
+||ywmvppnlwwxkgt.com^
 ||gw.d.ywopt.com^
 ||ywopyohpihnkppc.xyz^
 ||ywronwasthetron.com^
@@ -90235,6 +90267,7 @@
 ||zgsqnyb.com^
 ||zgtkxwqgebintr.com^
 ||zgtwzq.xyz^
+||zgwrkfowi.com^
 ||zgwsnw.xyz^
 ||zgwvcv.icu^
 ||1234.zgxue.com^
