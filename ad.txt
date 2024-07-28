@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240728102926
+!Version: 20240728173903
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91026
+!Total lines: 91037
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -2101,6 +2101,7 @@
 ||app.5miles.us^
 ||5min.win^
 ||to.5mins.ai^
+||5mltq.icu^
 ||p.5mnh.com^
 ||5mno3.com^
 ||adjb.5nd.com^
@@ -27085,6 +27086,7 @@
 ||eessoong.com^
 ||eessoost.net^
 ||data.eetech.com^
+||eetlwsw.top^
 ||eetognauy.net^
 ||eetsegeb.net^
 ||eetsooso.net^
@@ -42545,6 +42547,7 @@
 ||iwdapjojrylh.xyz^
 ||iwebtrack.com^
 ||pro.iweihai.cn^
+||iwerilxo.top^
 ||iwerioo.top^
 ||info.iwerk.com^
 ||iwevxujxzdpb.com^
@@ -49310,6 +49313,7 @@
 ||lyricaldefy.com^
 ||stats.lyricall.cz^
 ||lyricsgrand.com^
+||lyricshook.com^
 ||lyricslocusvaried.com^
 ||lyricsneighbour.com^
 ||lyricspartnerindecent.com^
@@ -50951,6 +50955,7 @@
 ||link.medium.com^
 ||read.medium.com^
 ||mediumpimpin.com^
+||mediumshort.com^
 ||mediumtunapatter.com^
 ||start.mediware.com^
 ||mediwebinars.com^
@@ -55934,6 +55939,7 @@
 ||nmssdbgmf.xyz^
 ||nmxcadosdrcbd.com^
 ||nmxqtuyyojgm.com^
+||nmxxvr.xyz^
 ||nmybyxnjscf.com^
 ||plausible.nmyvsn.net^
 ||a8aspconv.nn-com.co.jp^
@@ -66937,6 +66943,7 @@
 ||relivesternar.com^
 ||relkconka.com^
 ||relmaxtop.com^
+||reloadphoto.com^
 ||reloadsusa.com^
 ||info.reltio.com^
 ||reluctancefleck.com^
@@ -71068,8 +71075,10 @@
 ||shaxiq.com^
 ||beacon.shazam.com^
 ||shazauds.net^
+||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzogs.cn^
+||shbzokj.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shdegtbokshipns.xyz^
@@ -74288,6 +74297,7 @@
 ||data.marketing.stark.dk^
 ||starkhousing.com^
 ||starklesalta.com^
+||starkscale.com^
 ||starkslaveconvenience.com^
 ||starlayer.com^
 ||plausible.starlegacyfoundation.org^
@@ -90604,6 +90614,7 @@
 ||web.email.zone3.com^
 ||zonealta.com^
 ||a8cv.zoner.com^
+||zonewedgeshaft.com^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
 ||zongzuhulian.com^
