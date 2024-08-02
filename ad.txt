@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240802102520
+!Version: 20240802173854
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91257
+!Total lines: 91259
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -51453,6 +51453,7 @@
 ||images.go.metagenics.com^
 ||thrive.metagenics.com^
 ||metahv.xyz^
+||metajaws.com^
 ||pushad.metajoy.services^
 ||as.metal-hammer.de^
 ||metalbow.com^
@@ -69521,6 +69522,7 @@
 ||sandmakingsilver.info^
 ||algrcr.sandro-paris.com^
 ||sandsonair.com^
+||sandstrophies.com^
 ||sandtheircle.com^
 ||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
