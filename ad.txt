@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240806102557
+!Version: 20240806173859
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91309
+!Total lines: 91310
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -13137,6 +13137,7 @@
 ||bogrodius.com^
 ||vahlnd.bogsfootwear.com^
 ||bogtrmjz.xyz^
+||bogus-disk.com^
 ||so.boh.com^
 ||boharaf.com^
 ||boheasceile.top^
