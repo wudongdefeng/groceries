@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240811103209
+!Version: 20240811173911
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91464
+!Total lines: 91466
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -590,6 +590,7 @@
 ||116b.com^
 ||1188.com^
 ||ywrcqa.11alive.com^
+||11dyw.com^
 ||iqmetrics.11freunde.de^
 ||sams.11freunde.de^
 ||11g1ip22h.de^
@@ -42318,6 +42319,7 @@
 ||irtyd.com^
 ||irtyf.com^
 ||web.iru.org^
+||irutvnco.top^
 ||irvato.com^
 ||aa.irvinecompanyapartments.com^
 ||saa.irvinecompanyapartments.com^
