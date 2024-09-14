@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240913174100
+!Version: 20240914103234
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 89290
+!Total lines: 89314
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -196,6 +196,7 @@
 @@||ads.twitter.com^
 @@||ads.vk.com^
 @@||ads.x.com^
+@@||res.ads.nicovideo.jp^
 @@||ui.ads.microsoft.com^
 @@||adm.10jqka.com.cn^
 /^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
@@ -3216,6 +3217,7 @@
 ||abcqq36q.vip^
 ||info.abcsd.org^
 ||abcstats.com^
+||abdicatebirchcoolness.com^
 ||abdicatehorrified.com^
 ||abdicatesyrupwhich.com^
 ||abdict.com^
@@ -7441,6 +7443,7 @@
 ||digital.anicom-sompo.co.jp^
 ||aniede.xyz^
 ||go.anifox.net^
+||anijhatiqseeob.com^
 ||logs.animaapp.com^
 ||emails.animalplanet.com^
 ||links.animalplanet.com^
@@ -14839,6 +14842,7 @@
 ||bxnxdlb.xyz^
 ||bxoaeju.icu^
 ||bxpjpkldxrsss.xyz^
+||bxpwfdmmhlgccon.com^
 ||bxrfbsrlerio.com^
 ||bxrqdnkb.com^
 ||bxsk.site^
@@ -16137,6 +16141,8 @@
 ||cdn4image.com^
 ||cdn7.network^
 ||cdn7.rocks^
+||1026750852.rsc.cdn77.org^
+||1047430889.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1136707664.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
@@ -16144,6 +16150,7 @@
 ||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1450691516.rsc.cdn77.org^
+||1478004088.rsc.cdn77.org^
 ||1510557931.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
@@ -16519,6 +16526,7 @@
 ||chagrinprivata.top^
 ||domain1.chahaoba.cn^
 ||chaibsoacmo.com^
+||chaidsimsubs.net^
 ||chaifortou.net^
 ||wallet.chain.com^
 ||chainads.io^
@@ -21213,6 +21221,7 @@
 ||crashexecute.com^
 ||crasheye.cn^
 ||crashlytics.com^
+||mdt.crateandbarrel.com^
 ||metric.crateandbarrel.com^
 ||cratecamera.com^
 ||crateralbumcarlos.com^
@@ -25419,6 +25428,7 @@
 ||ds9e.top^
 ||dsa22.com^
 ||dsad234.fun^
+||dsads55.fun^
 ||dsaewew21.fun^
 ||dsail-tech.com^
 ||dsbqvj.xyz^
@@ -25796,6 +25806,7 @@
 ||dwlgdzzltdekr.com^
 ||dwlmjxf.com^
 ||dwq661.biz^
+||dwqjaehnk.com^
 ||fqcqnb.dwr.com^
 ||www2.dws-global.com^
 ||mit.dws.com^
@@ -31817,6 +31828,7 @@
 ||fq02.shop^
 ||fq03.shop^
 ||fq04.shop^
+||fq05.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqceyqo.com^
@@ -32666,6 +32678,7 @@
 ||fzgetdy.cn^
 ||fzipipalkri.com^
 ||fzivunnigra.com^
+||fzjbsvgz.icu^
 ||fzjchj.com^
 ||fzllis.cn^
 ||fzlnk.com^
@@ -33906,6 +33919,7 @@
 ||50m.gkcyc.com^
 ||gkdafpdmiwwd.xyz^
 ||gkencyarcoc.com^
+||gkeolwi.icu^
 ||gkewzootqju.com^
 ||gkfehrdhbm.com^
 ||info.gkg.net^
@@ -34845,7 +34859,6 @@
 ||gowspow.com^
 ||t.gowyo.com^
 ||t.goxavier.com^
-||goyetteconnelly.bid^
 ||gozendata.com^
 ||connect.goziohealth.com^
 ||connectmychart.goziohealth.com^
@@ -35257,6 +35270,7 @@
 ||grizzlies30.fun^
 ||grizzling33.fun^
 ||grkhhdxsimfif.com^
+||grkucmja.com^
 ||grkuikqvpmqnla.com^
 ||grmtas.com^
 ||grmtech.net^
@@ -37057,6 +37071,7 @@
 ||hfptbb.cn^
 ||hfptbf.cn^
 ||hfpuhwqi.xyz^
+||hftohrepdtz.com^
 ||hfufkifmeni.com^
 ||hfugukhcea.com^
 ||hfwld.cn^
@@ -37871,6 +37886,7 @@
 ||hookupfowlspredestination.com^
 ||hooliganmedia.com^
 ||click.hooligapps.com^
+||hooligs.app^
 ||spider.hoomie.online^
 ||hoomigri.com^
 ||hoonaptecun.com^
@@ -43650,6 +43666,7 @@
 ||jy04.shop^
 ||jy05.shop^
 ||jy06.shop^
+||jy07.shop^
 ||jy135.com^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
@@ -43822,6 +43839,7 @@
 ||etrader.kalahari.net^
 ||kalauxet.com^
 ||kaleidoscopeadjacent.com^
+||kaleidoscopefingernaildigging.com^
 ||kaleidoscopepincers.com^
 ||fp.kalevavakuutus.fi^
 ||info.kalevavakuutus.fi^
@@ -53726,6 +53744,7 @@
 ||a8cv.nd-clinic.net^
 ||nda3456.com^
 ||ndaspiratiotyukn.com^
+||ndatgiicef.com^
 ||ndaymidydlesswale.info^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
@@ -56383,6 +56402,7 @@
 ||ofphanpytor.com^
 ||ofpiplupon.com^
 ||ofqopmnpia.com^
+||ofqvca.xyz^
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||t.ofsys.com^
@@ -65740,6 +65760,7 @@
 ||renewpacificdistrict.com^
 ||a8.renkindo.com^
 ||vyykdr.renogy.com^
+||renohj.xyz^
 ||renoiceland.com^
 ||orangutan.renovare.org^
 ||renovatefairfaxmope.com^
@@ -66460,6 +66481,7 @@
 ||riffingwiener.com^
 ||riffledyanked.click^
 ||m.rifird.com^
+||rifjhukaqoh.com^
 ||riflesurfing.xyz^
 ||links.riftapp.co^
 ||riftharp.com^
@@ -75308,6 +75330,7 @@
 ||tbgmckdemnv.com^
 ||trk.tbivision.com^
 ||tbiwkjomju.com^
+||tblnreehmapc.com^
 ||tbmwkwbdcryfhb.xyz^
 ||amphibian.tboa.club^
 ||tbpot.com^
@@ -81387,6 +81410,7 @@
 ||vcvacpaenqepvm.com^
 ||vcvnsyewnv.com^
 ||vcxipynawv.com^
+||vcxv787.fun^
 ||vcxzp.com^
 ||vczypss.com^
 ||vdbaa.com^
