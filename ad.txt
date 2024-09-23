@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240923104025
+!Version: 20240923174331
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 88775
+!Total lines: 88778
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -32936,6 +32936,7 @@
 ||gcvcdashb2.fun^
 ||gcvgedashb3.fun^
 ||gcwwsv.icu^
+||gcybnvhleaebkp.com^
 ||gcylkq.xyz^
 ||gcyzgld.com^
 ||gdasaasnt.com^
@@ -37302,6 +37303,7 @@
 ||hkilops.com^
 ||hkiztcykfb.com^
 ||hkjmjxttwaxmui.com^
+||hkjzkrqz.icu^
 ||hkljed.xyz^
 ||hknoq.cn^
 ||hkowhqtenjfud.com^
@@ -62148,6 +62150,7 @@
 ||psonstrentie.info^
 ||psoofaltoo.com^
 ||psoogaix.net^
+||psooglaik.net^
 ||psooltecmeve.net^
 ||psoompou.xyz^
 ||psoopirdifty.xyz^
@@ -69310,6 +69313,7 @@
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
 ||sheertep.net^
+||sheesimo.net^
 ||sheethoneymoon.com^
 ||assets.sheetmusicplus.com^
 ||sheetvibe.com^
@@ -85850,7 +85854,6 @@
 ||o2o.api.xiaomi.com^
 ||ssp.xiaomi.com^
 ||starfish.pandora.xiaomi.com^
-||tracker.ai.xiaomi.com^
 ||video.market.xiaomi.com^
 ||tz.sec.xiaomi.com^
 ||app.chat.xiaomi.net^
