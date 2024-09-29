@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20240929104539
+!Version: 20240929173950
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 89171
+!Total lines: 89173
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -47688,6 +47688,7 @@
 ||book.londonsoundacademy.com^
 ||info.lonebeaconmedia.com^
 ||loneextreme.pro^
+||lonelybulb.com^
 ||lonelyflavor.com^
 ||lonelytransienttrail.com^
 ||lonerdrawn.com^
@@ -48840,6 +48841,7 @@
 ||majesticrepresentative.pro^
 ||majesticsecondary.com^
 ||majesticwaterscape.com^
+||majesticwilderness.com^
 ||majestyafterwardprudent.com^
 ||majestybrightennext.com^
 ||major-video.click^
