@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241009104011
+!Version: 20241009174025
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 89402
+!Total lines: 89415
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -12110,6 +12110,7 @@
 ||bharalhallahs.com^
 ||bharsilked.com^
 ||bhartianteact.com^
+||sentry.bhbapp.cn^
 ||bhcont.com^
 ||bhcostefja.com^
 ||bhcumsc.com^
@@ -16960,6 +16961,7 @@
 ||union.china.com.cn^
 ||china99315.cn^
 ||bdasd.chinabig.com.cn^
+||pcmactivity.chinacloudsites.cn^
 ||chinacontraryintrepid.com^
 ||same.chinadaily.com.cn^
 ||chinae.mobi^
@@ -32630,6 +32632,7 @@
 ||fzqfoil.cn^
 ||fzszuvb.com^
 ||fztyrv.xyz^
+||simulatelab-datasink.fzzixun.com^
 ||g--o.info^
 ||g-statistic.com^
 ||g0-g3t-msg.com^
@@ -33139,6 +33142,9 @@
 ||cdnads.geeksforgeeks.org^
 ||geeksundigne.com^
 ||link.sparrow.geekup.vn^
+||cooper.geelark.cn^
+||datasink.geelark.cn^
+||datasink.geelark.com^
 ||nsmetrics.geelongadvertiser.com.au^
 ||lalala.geenstijl.nl^
 ||geerairu.net^
@@ -47086,6 +47092,7 @@
 ||linkexchange.com^
 ||linkexchangers.net^
 ||st.linkfire.com^
+||datasink.linkfox.com^
 ||syndication.linkfryn.com^
 ||linkgrand.com^
 ||linkhaitao.com^
@@ -50223,6 +50230,7 @@
 ||meitissp.com^
 ||adui.tg.meitu.com^
 ||report.meituan.com^
+||dreport.meituan.net^
 ||norma-external-collect.meizu.com^
 ||tongji-res.meizu.com^
 ||btcfbr.mejshop.jp^
@@ -75810,6 +75818,7 @@
 ||ping.cloud.tencent.com^
 ||sensors.cloud.tencent.com^
 ||tpstelemetry.tencent.com^
+||report.meeting.tencent.com^
 ||tencentmind.com^
 ||adclick.tencentmusic.com^
 ||adexpo.tencentmusic.com^
@@ -88228,6 +88237,7 @@
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
 ||js-ad.a.yximgs.com^
+||tob-tracker.yximgs.com^
 ||yxjnzydc.com^
 ||yxkbgg.xyz^
 ||yxkfaskdaybakf.com^
@@ -88749,6 +88759,9 @@
 ||bavvgo.zingat.com^
 ||apps.zingeroo.com^
 ||target.zinia.com^
+||datasink.ziniao.com^
+||logs-collect.ziniao.com^
+||test-cb-log.ziniao.com^
 ||insights.zinio.com^
 ||zinipx.xyz^
 ||marketing.zinniawealth.com^
