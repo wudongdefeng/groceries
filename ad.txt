@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241018104240
+!Version: 20241018174152
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 83687
+!Total lines: 83690
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -21678,7 +21678,8 @@
 ||debtsbosom.com^
 ||debtsevolve.com^
 ||a.debub.site^
-||debugbear.com^
+||cdn.debugbear.com^
+||data.debugbear.com^
 ||debugentity.com^
 ||debutpanelquizmaster.com^
 ||decademical.com^
@@ -55878,7 +55879,7 @@
 ||perigshfnon.com^
 ||perilousalonetrout.com^
 ||perimeterridesnatch.com^
-||perimeterx.net^
+||client.perimeterx.net^
 ||periodicjotrickle.com^
 ||periodicpocket.com^
 ||periodicpole.com^
@@ -67321,6 +67322,7 @@
 ||adballoon.sooplive.co.kr^
 ||deapi.sooplive.co.kr^
 ||reqde.sooplive.co.kr^
+||vod-mplayer.sooplive.co.kr^
 ||soopsepsi.net^
 ||soopsulo.xyz^
 ||soorbka.cn^
@@ -80511,6 +80513,7 @@
 ||wunderloop.net^
 ||wunishamjch.com^
 ||wuqconn.com^
+||wuresde.top^
 ||wurqaz.com^
 ||wurunoax.com^
 ||ywrcqa.wusa9.com^
