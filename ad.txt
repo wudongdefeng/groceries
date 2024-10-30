@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241030104235
+!Version: 20241030174134
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 84284
+!Total lines: 84289
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -724,6 +724,7 @@
 ||httpdns.music.163.com^
 ||netapm.music.163.com^
 ||ac.dun.163yun.com^
+||ye.dun.163yun.com^
 ||165tchuang.com^
 ||tr.newsletter.1664france.fr^
 ||166br.com^
@@ -2244,6 +2245,7 @@
 ||6ef2279e3d.com^
 ||6efgcdcjr000.fun^
 ||9e53d7ea46.6f0b6cb0fe.com^
+||6ft8a.icu^
 ||6fxtpu64lxyt.com^
 ||6gcstb.xyz^
 ||6gi0edui.xyz^
@@ -5652,6 +5654,7 @@
 ||adebis.aij.co.jp^
 ||aijurivihebo.com^
 ||aikat-vim.com^
+||aikkits.com^
 ||aiknx.cn^
 ||aikraith.net^
 ||aikravoapu.com^
@@ -25695,6 +25698,7 @@
 ||ehpxmsqghx.xyz^
 ||ehqdzqi.com^
 ||ehrhrrx.xyz^
+||ehrmanoda.com^
 ||ehrydnmdoe.com^
 ||eht116.com^
 ||m.ehwhwz.cn^
@@ -36190,6 +36194,7 @@
 ||som.hotwire.com^
 ||hotwords.com^
 ||a8cv.hotyoga-loive.com^
+||houbliu.top^
 ||houdodoo.net^
 ||houfopsichoa.com^
 ||sanalytics.houghtonstatebank.com^
@@ -41145,6 +41150,7 @@
 ||jugao.com^
 ||jugerfowells.com^
 ||juggleeducationfirearm.com^
+||juglarunioid.com^
 ||jugnepha.xyz^
 ||d.jugnoo.in^
 ||driver.jugnoo.in^
@@ -60252,7 +60258,6 @@
 ||c.l.qq.com^
 ||c2.l.qq.com^
 ||cb.l.qq.com^
-||cc.map.qq.com^
 ||cm.l.qq.com^
 ||hm.l.qq.com^
 ||jsqmt.qq.com^
