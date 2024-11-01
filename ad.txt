@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241101104958
+!Version: 20241101174132
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 84141
+!Total lines: 84142
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -66723,6 +66723,7 @@
 ||jinx.skullctf.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skullmagnets.com^
 ||skunscold.top^
 ||uudbvq.skuola.net^
 ||somni.sky.at^
