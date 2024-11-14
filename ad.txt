@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241113174126
+!Version: 20241114104005
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 82170
+!Total lines: 82192
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -180,6 +180,7 @@
 @@||login-sh.aki-game.com^
 @@||rocket.chat^
 @@||usageapi.*.oraclecloud.com^
+@@||track.vontron.com^
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\.[0-9\-a-z]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 @@||ad.vivo.com.cn^
@@ -8857,6 +8858,7 @@
 ||trck.atnenga.com^
 ||a8clk.ato-barai.com^
 ||ato.mx^
+||atodiler.com^
 ||tk.atol.fr^
 ||members.atomcomplete.com^
 ||atomex.net^
@@ -10284,6 +10286,7 @@
 ||get.bambinoapp.com^
 ||j.baminw.cn^
 ||n.baminw.com.cn^
+||bamtinseefta.xyz^
 ||ban-host.ru^
 ||ban.su^
 ||banalrestart.com^
@@ -11713,10 +11716,12 @@
 ||bildirt.com^
 ||bilec.xyz^
 ||dataflow.biliapi.com^
+||grpc.biliapi.net^
 ||miniapp.bilibili.com^
 ||bilibilitool.site^
 ||line1-log.biligame.net^
 ||bilingualwalking.com^
+||httpdns.bilivideo.com^
 ||bilkersteds.com^
 ||xx.billaesopus.com^
 ||descargar.billeteramango.com^
@@ -13698,6 +13703,7 @@
 ||builtinproceeding.com^
 ||builtrussism.top^
 ||bujerdaz.com^
+||bujlmitd.icu^
 ||bujz.top^
 ||hbaazk.bukalapak.com^
 ||t.bukalapak.com^
@@ -16866,6 +16872,7 @@
 ||marketing.clinigengroup.com^
 ||engage.clinipace.com^
 ||clinkeasiestopponent.com^
+||clintonchewet.com^
 ||clintsflawed.click^
 ||minnow.clintwinter.me^
 ||drt.cliomovies.com^
@@ -18634,6 +18641,7 @@
 ||coinadster.com^
 ||coinblind.com^
 ||coinblocktyrusmiram.com^
+||ingest.coincodex.com^
 ||coinerra.com^
 ||coinhits.com^
 ||coinhive.com^
@@ -32300,6 +32308,7 @@
 ||a8.store.goo.ne.jp^
 ||log.gs3.goo.ne.jp^
 ||log000.goo.ne.jp^
+||goobakocaup.com^
 ||goobefirumaupt.net^
 ||marketing.goochandhousego.com^
 ||goocivede.com^
@@ -35949,6 +35958,7 @@
 ||rf.hwancangue.com^
 ||hwateru.top^
 ||hwderdk.com^
+||hweisiu.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwfmynim.com^
@@ -39528,6 +39538,7 @@
 ||jgjyxf.xyz^
 ||jglgjz.xyz^
 ||jglinks.cn^
+||jgltbxlougpg.xyz^
 ||jgmlink.cn^
 ||jgmywh.icu^
 ||jgntjtyf.icu^
@@ -46560,6 +46571,7 @@
 ||stats.mempool.space^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mendedrefuel.com^
 ||t.menepe.com^
 ||menews.org^
@@ -50471,6 +50483,7 @@
 ||smetric.nfgonlineplus.de^
 ||nfgxadlbfzuy.click^
 ||get.nfit.club^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||trk.nfl-online-streams.live^
 ||data.mktg.nfl.com^
@@ -57288,6 +57301,7 @@
 ||primate.productcolors.com^
 ||producthub.info^
 ||scallop.productionrails.com^
+||productive-chemical.pro^
 ||productivepear.com^
 ||tgmklw.productreview.com.au^
 ||productsup.com^
@@ -57319,6 +57333,7 @@
 ||stat.profinfo.pl^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
+||profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
@@ -71490,6 +71505,7 @@
 ||tonicneighbouring.com^
 ||toninjaska.com^
 ||tonnn.com^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontrinevengre.com^
 ||custom.tonyle.co^
@@ -75429,6 +75445,7 @@
 ||vfreecams.com^
 ||vfthr.com^
 ||vftvbx.xyz^
+||vfuqivac.com^
 ||vfvad.top^
 ||vfvdsati.com^
 ||vfvdvd99.fun^
@@ -77754,6 +77771,7 @@
 ||wetpeachcash.com^
 ||link.wetrade.app^
 ||backgrounds.wetransfer.net^
+||creatives.wetransfer.net^
 ||wetryprogress.com^
 ||wetsireoverload.com^
 ||ltsveh.wetteronline.at^
@@ -79044,6 +79062,7 @@
 ||wrathyblesmol.com^
 ||wrating.com^
 ||axp.wrbl.com^
+||wrdamoe.icu^
 ||wrdnaunq.com^
 ||wreaksyolkier.com^
 ||wreathabble.com^
@@ -79245,6 +79264,7 @@
 ||wwwpromoter.com^
 ||wwwww.asia^
 ||wwwwzeraqvazw.top^
+||wwwwzeraqvrej.top^
 ||wwxufo.com^
 ||wx16999.com^
 ||cpm.wxadserve.xyz^
@@ -80037,6 +80057,7 @@
 ||xuoizbtl.xyz^
 ||xuqza.com^
 ||xushenghb.com^
+||xuugnuits.com^
 ||xuxwvh.xyz^
 ||xuyanlong1.cn^
 ||xuzeez.com^
@@ -80723,6 +80744,7 @@
 ||info.eu.tmi.yokogawa.com^
 ||pr.yokohama-chokin.com^
 ||a8cv.yokoyamakaban.com^
+||yoksamhain.com^
 ||lowgxl.yokumoku.jp^
 ||app.yolda.com^
 ||app.yolda.io^
