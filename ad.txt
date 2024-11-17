@@ -1,5 +1,5 @@
 !Title: anti-AD
-!Version: 20241117105016
+!Version: 20241117174130
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
@@ -38468,7 +38468,6 @@
 ||ipfind.com^
 ||ipfingerprint.com^
 ||ipfrom.com^
-||ipgeolocation.io^
 ||ipgp.net^
 ||iphaigra.xyz^
 ||iphumiki.com^
@@ -59397,6 +59396,7 @@
 ||qwaapgxfahce.com^
 ||k.qwant.com^
 ||stats.qwant.com^
+||qweisiy.top^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwertize.com^
