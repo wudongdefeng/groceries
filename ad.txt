@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241121104634
+!Version: 20241121174312
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 82438
+!Total lines: 82442
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -872,6 +872,7 @@
 ||1iuybpo.com^
 ||1j02claf9p.pro^
 ||1j771bhgi.de^
+||1jok.icu^
 ||1jpbh5iht.de^
 ||1jsskipuf8sd.com^
 ||1jutu5nnx.com^
@@ -2877,7 +2878,6 @@
 ||repdata.9news.com^
 ||ywrcqa.9news.com^
 ||9nl.eu^
-||stream.9now.com.au^
 ||9ohy40tok.com^
 ||9purdfe9xg.com^
 ||9r7i9bo06157.top^
@@ -7463,6 +7463,7 @@
 ||aoao11120iis.top^
 ||aoao11121iis.top^
 ||aoao11201iis.top^
+||aoao11211iis.top^
 ||aobde.com^
 ||aobtwv.icu^
 ||marketing.aod-cloud.com^
@@ -7723,6 +7724,7 @@
 ||yoda.aomg5bzv7.com^
 ||yp.aomg5bzv7.com^
 ||zoo.aomg5bzv7.com^
+||aomsitf.com^
 ||s362693299.aon.ca^
 ||aonemeaclientcouncil.aon.com^
 ||app.comms.aon.com^
@@ -11628,6 +11630,7 @@
 ||bidgx.com^
 ||bidio.pl^
 ||bidiology.com^
+||bidjora.com^
 ||xml.bidmonetize.com^
 ||filter.bidmyads.com^
 ||login.bidmyads.com^
@@ -13566,6 +13569,7 @@
 ||bsilzzc.com^
 ||bsjusnip.com^
 ||bskchina.cn^
+||events.bsky.app^
 ||bsmakeup.com.cn^
 ||l.bspace.io^
 ||bsrkt.com^
