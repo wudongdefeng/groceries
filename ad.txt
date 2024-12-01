@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241201110647
+!Version: 20241201174142
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81520
+!Total lines: 81523
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -2963,6 +2963,7 @@
 ||a2m.cn^
 ||tr.news.a2micile.com^
 ||a2tw6yoodsag.com^
+||a2wx.icu^
 ||video-ads.a2z.com^
 ||a2zapk.com^
 ||ma.a3.se^
@@ -7425,6 +7426,7 @@
 ||aoao11121iis.top^
 ||aoao11201iis.top^
 ||aoao11211iis.top^
+||aoao12011iis.top^
 ||aobde.com^
 ||aobtwv.icu^
 ||marketing.aod-cloud.com^
@@ -16975,7 +16977,6 @@
 ||d1wc0ojltqk24g.cloudfront.net^
 ||d1wd81rzdci3ru.cloudfront.net^
 ||d1wi563t0137vz.cloudfront.net^
-||d1wix2gc2cgqis.cloudfront.net^
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xdxiqs8w12la.cloudfront.net^
@@ -24217,6 +24218,7 @@
 ||hmeagu.e87.com^
 ||5930107e7f.e890f5e345.com^
 ||e2e7aaca07.e8a8e57eb3.com^
+||e8d7.icu^
 ||8869bc0716.e9522e84dc.com^
 ||e9d13e3e01.com^
 ||ea011c4ae4.com^
@@ -24669,6 +24671,7 @@
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
+||edamcsw.top^
 ||link.edapp.com^
 ||info.edb.gov.sg^
 ||target.edb.gov.sg^
