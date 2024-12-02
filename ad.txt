@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241201174142
+!Version: 20241202105435
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81523
+!Total lines: 81531
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -181,6 +181,7 @@
 @@||rocket.chat^
 @@||usageapi.*.oraclecloud.com^
 @@||track.vontron.com^
+@@||download.falco.org^
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\.[0-9\-a-z]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 @@||ad.vivo.com.cn^
@@ -13890,6 +13891,7 @@
 ||caamei.com^
 ||news.caamp.org^
 ||caanalytics.com^
+||caaqot.com^
 ||dl.caavo.com^
 ||p.cab.ua^
 ||cabbagesemestergeoffrey.com^
@@ -15944,6 +15946,7 @@
 ||yikrmn.ciceksepeti.com^
 ||iqmetrics.cicero.de^
 ||cideparenhem.com^
+||cidhmxxb.icu^
 ||cidrulj.com^
 ||ciedpso.com^
 ||fpc.ciel.com^
@@ -24451,6 +24454,7 @@
 ||clicked.ebates.com^
 ||epnt.ebay.com^
 ||pulsar.ebay.com^
+||ebayadservices.com^
 ||ebayclassifiedsgroup.com^
 ||ebayobjects.com.au^
 ||ebayrtm.com^
@@ -36258,6 +36262,7 @@
 ||sig.ig.com^
 ||pxbnou.ig.com.br^
 ||ig0nr8hhhb.com^
+||ig69.vip^
 ||igabcgnh.icu^
 ||igainareputaon.info^
 ||igaming-warp-service.io^
@@ -62623,6 +62628,7 @@
 ||scnd-tr.com^
 ||scoev.cn^
 ||scoldak.com^
+||sconat.com^
 ||sconvtrk.com^
 ||scoopauthority.com^
 ||info.scoopinsurance.ca^
@@ -76585,6 +76591,7 @@
 ||wdad.cc^
 ||wdadad.cn^
 ||wdakda.cn^
+||wdamcse.top^
 ||wdavrzv.com^
 ||traffic.wdc.center^
 ||wdcigo.xyz^
@@ -80957,6 +80964,7 @@
 ||marketing.zinniawealth.com^
 ||zinovu.com^
 ||trk.zinsser-analytic.com^
+||zio8.icu^
 ||zioe.com.cn^
 ||app.zmail.zionsbank.com^
 ||ablink.account.zip.co^
