@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241205105353
+!Version: 20241205174311
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81696
+!Total lines: 81698
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -1727,6 +1727,7 @@
 ||4g0b1inr.de^
 ||4h44.com^
 ||4hfchest5kdnfnut.com^
+||4i1.icu^
 ||4iazoa.xyz^
 ||4imk5.online^
 ||metric.4imprint.com^
@@ -61988,6 +61989,7 @@
 ||sfsinfo.sabic.com^
 ||solutions.sabic.com^
 ||sableloss.com^
+||sableshelf.com^
 ||sablesmile.com^
 ||sablesong.com^
 ||lrjnbf.sabon.co.jp^
