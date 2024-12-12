@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241212105221
+!Version: 20241212174324
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81943
+!Total lines: 81942
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -66494,7 +66494,6 @@
 ||splief.com^
 ||stats.splinder.com^
 ||splinky.com^
-||events.split.io^
 ||splitbee.io^
 ||dajdnm.splits59.com^
 ||splittag.com^
