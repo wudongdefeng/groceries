@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241214104741
+!Version: 20241214174028
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 82005
+!Total lines: 82007
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -38595,6 +38595,7 @@
 ||elk.itiden.se^
 ||a.itim.es^
 ||app.itimes.com^
+||itimiyo.top^
 ||itineraryborn.com^
 ||itinerarymonarchy.com^
 ||itjcqlp.icu^
@@ -79853,6 +79854,7 @@
 ||xunyangdianzi4.cn^
 ||xunyibaike.com^
 ||xuoizbtl.xyz^
+||xupalace.org^
 ||xuqza.com^
 ||xushenghb.com^
 ||xuugnuits.com^
