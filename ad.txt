@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241216174431
+!Version: 20241217105138
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 82041
+!Total lines: 82074
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -238,7 +238,6 @@
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
 /^(\S+\.)?[0-9a-f]{15,}\.com$/
 /^(\S+\.)?[0-9a-z]{16,}\.xyz$/
-@@||inazumaotoshifansub.xyz^
 /^(\S+\.)?aj[0-9]{4,}.online$/
 /^(\S+\.)?ylx-[0-9].com$/
 /^(\S+\.)?777\-?partners?\.(net|com)$/
@@ -1195,6 +1194,7 @@
 ||2d1f81ac8e.com^
 ||2d283cecd5.com^
 ||2d439ab93e.com^
+||2d5ac65613.com^
 ||1dc651d70c.2d5c3a63b2.com^
 ||2d6g0ag5l.de^
 ||2de65ef3dd.com^
@@ -2291,6 +2291,7 @@
 ||6de72955d8.com^
 ||54e4e31106.6e10268cd2.com^
 ||6e391732a2.com^
+||6e6cd153a6.com^
 ||1f22732747.6ec5c9fcec.com^
 ||33a81b5b91.6ec7e42994.com^
 ||32dcfb89c9.6ee4d8e440.com^
@@ -5469,6 +5470,7 @@
 ||agcdn.com^
 ||images.na.agcocorp.com^
 ||ageaskedfurther.com^
+||ageetsaimouphih.net^
 ||tr.agefiseminaires.com^
 ||trackingssl.agemployeebenefits.be^
 ||tr.emailing.agencereference.com^
@@ -12583,6 +12585,7 @@
 ||stats.booncon.com^
 ||images.service.boonedam.co.uk^
 ||booseed.com^
+||booshoatoocotez.net^
 ||boost-next.co.jp^
 ||boostable.com^
 ||boostads.net^
@@ -15136,6 +15139,7 @@
 ||cedexis.com^
 ||wavrlh.cedok.cz^
 ||salmon.cedricreeves.com^
+||cedrt6.pro^
 ||ceebethoatha.com^
 ||ceebikoph.com^
 ||ceegriwuwoa.net^
@@ -16010,6 +16014,7 @@
 ||churchyardalludeaccumulate.com^
 ||churci.com^
 ||chushoushijian.cn^
+||chussuth.com^
 ||dns.chuzushijian.cn^
 ||sanalytics.chvnoticias.cl^
 ||kidsdeservethebest.chw.org^
@@ -18666,6 +18671,7 @@
 ||comeplums.com^
 ||mmulsx.comet.it^
 ||cometadministration.com^
+||cometappetit.shop^
 ||t.cometlytrack.com^
 ||cometothepointaton.info^
 ||cometquote.com^
@@ -19832,6 +19838,7 @@
 ||cr08.biz^
 ||cr09.biz^
 ||crabbychin.com^
+||crabletfrijole.shop^
 ||cracataum.com^
 ||crackbroadcasting.com^
 ||crackedsafe.com^
@@ -21259,6 +21266,7 @@
 ||ssc.wa.gto.db.com^
 ||db20da1532.com^
 ||f2fcd50c02.db2a85c464.com^
+||db33180b93.com^
 ||32d3db0610.db35b0c4c1.com^
 ||db72c26349.com^
 ||36f0cfe37d.db770a49df.com^
@@ -21585,6 +21593,7 @@
 ||static.degpeg.com^
 ||degradationrethink.com^
 ||degradationtransaction.com^
+||degradeaccusationshrink.com^
 ||degradeexpedient.com^
 ||to.degree.plus^
 ||degreebristlesaved.com^
@@ -22498,6 +22507,7 @@
 ||diningconsonanthope.com^
 ||diningprefixmyself.com^
 ||diningsovereign.com^
+||dinkeysosmetic.shop^
 ||dinnercreekawkward.com^
 ||dinnerquartz.com^
 ||dl.dinngo.co^
@@ -26143,6 +26153,7 @@
 ||epu.sh^
 ||epushclick.com^
 ||eputysolomon.com^
+||epvjljye.com^
 ||info.epworthvilla.org^
 ||epxfjcb.xyz^
 ||epxprfk.xyz^
@@ -26362,6 +26373,7 @@
 ||especiallyspawn.com^
 ||espionagegardenerthicket.com^
 ||espionageomissionrobe.com^
+||espleestrick.com^
 ||tr.espmp-agfr.net^
 ||tr.zojh.espmp-aluk.net^
 ||sw88.espn.co.uk^
@@ -27428,6 +27440,7 @@
 ||fafmimgubcm.com^
 ||faggapmunost.com^
 ||hj.faggotbovidae.com^
+||faggotstagily.shop^
 ||faggrim.com^
 ||fagovwnavab.com^
 ||fagywalu.pro^
@@ -34343,6 +34356,7 @@
 ||hewonderfulst.info^
 ||hewrutu.top^
 ||hexagon-analytics.com^
+||hexinemicerun.top^
 ||hexinx.com^
 ||hexitolsafely.top^
 ||hexovythi.pro^
@@ -36548,6 +36562,7 @@
 ||erg.ihclam.cn^
 ||ihcxue.xyz^
 ||ihdcnwbcmw.com^
+||ihearsoh.com^
 ||ablink.mail1.iheart.com^
 ||ablink.test.iheart.com^
 ||abmail.test.iheart.com^
@@ -40246,6 +40261,7 @@
 ||stats.juttu.be^
 ||jutyledu.pro^
 ||qr.juuice.com^
+||juutckrt.icu^
 ||tmhgma.juwelo.de^
 ||xhuahy.juwelo.it^
 ||juyoufan.net^
@@ -42426,6 +42442,7 @@
 ||gazelle.laurenagray.com^
 ||takqyi.laurenhi.jp^
 ||laustiboo.com^
+||laustoowagosha.net^
 ||images.lauthorities.com^
 ||lavatorydownybasket.com^
 ||lavatoryhitschoolmaster.com^
@@ -48124,6 +48141,7 @@
 ||motsjnv.cn^
 ||motu-teamblue.services^
 ||www3.motumb2b.com^
+||moumaiphuch.net^
 ||dx.mountain.com^
 ||px.mountain.com^
 ||mountainbender.xyz^
@@ -48686,6 +48704,7 @@
 ||mvtracker.com^
 ||mvujvxc.com^
 ||mvvhwabeshu.xyz^
+||mvwitz.xyz^
 ||mvwslulukdlux.xyz^
 ||ma.mw-ind.com^
 ||mwazhey.com^
@@ -50680,6 +50699,7 @@
 ||nlxgjwye.icu^
 ||lp.northwestern.nm.org^
 ||web.northwestern.nm.org^
+||nm2.icu^
 ||nmanateex.top^
 ||nmbtedu.com^
 ||nmcdn.us^
@@ -52001,6 +52021,7 @@
 ||ogfga.net^
 ||ogfna.net^
 ||ogghpaoxwv.com^
+||oghgrazubafz.com^
 ||oghqvffmnt.com^
 ||oghub.io^
 ||oghyz.click^
@@ -55514,6 +55535,7 @@
 ||leadbooster-chat.pipedrive.com^
 ||pipeofferear.com^
 ||pipeschannels.com^
+||pipilimagine.shop^
 ||otrnww.pipingrock.com^
 ||s1.pipishu.com^
 ||pipiska221net.shop^
@@ -55541,6 +55563,7 @@
 ||media.pirtek.nl^
 ||pirubcfy.xyz^
 ||pisehiation.shop^
+||pisgahserve.com^
 ||pishespied.top^
 ||bcigeg.pishposhbaby.com^
 ||pisism.com^
@@ -57536,6 +57559,7 @@
 ||psma01.com^
 ||psma02.com^
 ||psma03.com^
+||psndhfrga.com^
 ||slview.psne.jp^
 ||psoabojaksou.net^
 ||psoacickoots.net^
@@ -61135,6 +61159,7 @@
 ||m.rifird.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
+||riflepicked.com^
 ||riflesurfing.xyz^
 ||links.riftapp.co^
 ||riftharp.com^
@@ -67450,6 +67475,7 @@
 ||stigat.com^
 ||connect.stihl.info^
 ||stikinemammoth.shop^
+||stikroltiltoowi.net^
 ||stilaikr.com^
 ||tracker.stileo.it^
 ||stillfolder.com^
@@ -70534,6 +70560,7 @@
 ||thgthgfg.cn^
 ||thickcultivation.com^
 ||thickshortwage.com^
+||thickspaghetti.com^
 ||thickstatements.com^
 ||thickticket.com^
 ||thicktrucks.com^
@@ -71196,6 +71223,7 @@
 ||to8to.com^
 ||toadcampaignruinous.com^
 ||toaglegi.com^
+||toahicobeerile.com^
 ||toamaustouy.com^
 ||toangroi.xyz^
 ||toapz.xyz^
@@ -72973,6 +73001,7 @@
 ||twentydruggeddumb.com^
 ||twerilxi.top^
 ||twerioi.top^
+||twevpgjeai.com^
 ||twewmykfe.com^
 ||twh5.com^
 ||stats.twhl.xyz^
@@ -77652,6 +77681,7 @@
 ||ywrcqa.wgrz.com^
 ||wgsas.com^
 ||whackresolved.com^
+||whacmoltibsay.net^
 ||whagrolt.com^
 ||whaickeenie.xyz^
 ||whaickossu.net^
@@ -77935,6 +77965,7 @@
 ||widgetbe.com^
 ||widgetbucks.com^
 ||widgetly.com^
+||widiaoexhe.top^
 ||widow5blackfr.com^
 ||widthovercomerecentrecent.com^
 ||as.wieistmeineip.de^
@@ -80057,6 +80088,7 @@
 ||share.yabelink.com^
 ||yabo816.com^
 ||1.yac8.net^
+||yackvidette.com^
 ||yacurlik.com^
 ||upstats.yadro.ru^
 ||st.yagla.ru^
@@ -81811,6 +81843,7 @@
 ||net.zooroyal.de^
 ||zoossoft.cn^
 ||zoossoft.net^
+||zoowhausairoun.net^
 ||zoozishooh.com^
 ||zopuqv.icu^
 ||zorango.com^
