@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241224174039
+!Version: 20241225103750
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80791
+!Total lines: 80802
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -5030,6 +5030,7 @@
 ||adxadtracker.com^
 ||adxbid.info^
 ||adxcel-ec2.com^
+||cf.adxcel.com^
 ||adxchg.com^
 ||adxcorp.kr^
 ||adxfactory.com^
@@ -7245,6 +7246,7 @@
 ||trk.anthology.com^
 ||mouse.anthony-noel.com^
 ||go.anthonyliftgates.com^
+||statsig.anthropic.com^
 ||ocelot.anthroquiches.fr^
 ||anthrylshoq.click^
 ||anti-cheat.info^
@@ -33948,6 +33950,7 @@
 ||hffxc.com^
 ||marketing.hfgagents.com^
 ||hfhppxseee.com^
+||hfisngksng.com^
 ||hfiwcuodr.com^
 ||hfjmvr.xyz^
 ||hfjsliu.top^
@@ -44126,6 +44129,7 @@
 ||m3i0v745b.com^
 ||m4su.online^
 ||innovation.m5.net^
+||m51.icu^
 ||m53frvehb.com^
 ||m549z.site^
 ||now.m5net.com^
@@ -58361,6 +58365,7 @@
 ||qwfh39851jtfvkurf21hf.com^
 ||qwiarjayuffn.xyz^
 ||erp.qwic.nl^
+||qwilmiy.top^
 ||qwivhkmuksjodtt.com^
 ||qwkmiot.com^
 ||qwlbvlyaklmjo.top^
@@ -61258,6 +61263,7 @@
 ||rvtfwryz.icu^
 ||yurobl.rw-co.com^
 ||biminibliss.rwbimini.com^
+||rwdjrn.icu^
 ||online.rwdls.com^
 ||online.rwdstco.com^
 ||b.rwjf.org^
@@ -63667,6 +63673,7 @@
 ||trk.info.shutterstock.com^
 ||zrsetz.shutterstock.com^
 ||shuttersurveyednaive.com^
+||shuucerz.com^
 ||pb.shuxigua.com^
 ||shuzhundsj.cn^
 ||shuzilm.cn^
@@ -63824,6 +63831,7 @@
 ||ehedwd.sikayetvar.com^
 ||views.sikerlogistics.com^
 ||views.sikerproducts.com^
+||sikncs.com^
 ||ktocpw.silabg.com^
 ||silebu.xyz^
 ||silenceblindness.com^
@@ -70717,6 +70725,7 @@
 ||towersalighthybrids.com^
 ||towerslady.com^
 ||towersresent.com^
+||towmfs.com^
 ||townifybabbie.top^
 ||townrusisedpriva.org^
 ||townrusisedprivat.info^
@@ -71963,7 +71972,6 @@
 ||twcczhu.com^
 ||twcount.com^
 ||twcouponcenter.com^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||navigator-analytics.tweakwise.com^
 ||app.wine.tweglobal.com^
@@ -75319,6 +75327,7 @@
 ||vreqnait.com^
 ||cts.vresp.com^
 ||vrgvugostlyhewo.info^
+||vriesziy.com^
 ||marketing.vrijekavelsvathorst.nl^
 ||vrime.xyz^
 ||vrinqop.icu^
@@ -79128,6 +79137,8 @@
 ||yextevents.com^
 ||yeyemo4.com^
 ||yezilm.com^
+||yfanads.cn^
+||yfanads.com^
 ||yfaqgk.xyz^
 ||yfasjfk.icu^
 ||yfefdlv.com^
