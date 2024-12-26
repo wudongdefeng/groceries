@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241226103759
+!Version: 20241226174007
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80533
+!Total lines: 80530
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -39615,6 +39615,7 @@
 ||jy09.shop^
 ||jy135.com^
 ||jy147a.com^
+||jy7.icu^
 ||jybaekajjmqrz.top^
 ||jycrjkuspyv.fun^
 ||jycrmvvyplmq.com^
@@ -52691,6 +52692,7 @@
 ||owfjlchuvzl.com^
 ||owfrbdikoorgn.xyz^
 ||owhlmuxze.com^
+||owilmik.top^
 ||owithlerendu.com^
 ||owldata.com^
 ||owlerydominos.cam^
@@ -59761,12 +59763,7 @@
 ||rev2pub.com^
 ||rev4rtb.com^
 ||revampcdn.com^
-||cpm.revbid.net^
-||rtb-apac-v4.revbid.net^
-||rtb-eu-v4.revbid.net^
-||rtb-useast-v4.revbid.net^
-||rtb-uswest-v4.revbid.net^
-||static.revbid.net^
+||revbid.net^
 ||revcatch.com^
 ||marketing.revcommercialgroup.com^
 ||revcontent.com^
