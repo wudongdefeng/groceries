@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20241230104152
+!Version: 20241230174044
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80620
+!Total lines: 80622
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -26605,6 +26605,7 @@
 ||expectedballpaul.com^
 ||expelledmotivestall.com^
 ||mobile.expensify.com^
+||expensivefire.com^
 ||expensivepillowwatches.com^
 ||ae-go.experian.com^
 ||apac-go.experian.com^
@@ -50733,6 +50734,7 @@
 ||o313o.com^
 ||o333o.com^
 ||o3sxhw5ad.com^
+||o3t.icu^
 ||marketing.o3world.com^
 ||o4nofsh6.de^
 ||o4uxrk33.com^
