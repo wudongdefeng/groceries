@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250109110632
+!Version: 20250109174129
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80770
+!Total lines: 80772
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -50942,6 +50942,7 @@
 ||o626b32etkg6.com^
 ||o7h.net^
 ||z1.o8h7d.cn^
+||o8s.icu^
 ||o8zoz.icu^
 ||o911o.com^
 ||oa129.com^
@@ -78752,6 +78753,7 @@
 ||xx3691b.com^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
+||xxaks01091sspao.xyz^
 ||xxccdshj.com^
 ||xxcgdq.com^
 ||xxdfexbwv.top^
