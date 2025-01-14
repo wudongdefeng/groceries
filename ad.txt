@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250114103334
+!Version: 20250114174012
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80908
+!Total lines: 80910
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -1856,6 +1856,7 @@
 ||4wad.com^
 ||aa.4wank.com^
 ||4we.icu^
+||4wm.fun^
 ||4wnet.com^
 ||4wnetwork.com^
 ||4wu3gf.cn^
@@ -40348,6 +40349,7 @@
 ||super.kdnet.net^
 ||plausible.app.kdojang.com^
 ||plausible.kdojang.com^
+||kdomsid.top^
 ||kdopag.xyz^
 ||kdoshbd.top^
 ||kdqlbm.cn^
