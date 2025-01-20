@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250120103733
+!Version: 20250120174124
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81041
+!Total lines: 81043
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -1397,6 +1397,7 @@
 ||31o0jl63.de^
 ||31up.icu^
 ||31v1scl527hm.shop^
+||31y.fun^
 ||321naturelikefurfuroid.com^
 ||link.321okgo.com^
 ||3221dkf7m2.com^
@@ -33680,6 +33681,7 @@
 ||internal.hcltech.com^
 ||trackinginternal.hcltech.com^
 ||service.hcob-bank.de^
+||hcokamiu.top^
 ||hcpvkcznxj.com^
 ||marketing.hcrwealth.com^
 ||marketing.hcsbenefits.com^
