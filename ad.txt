@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250125103058
+!Version: 20250125173941
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81279
+!Total lines: 81281
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -57845,6 +57845,7 @@
 ||pwxlbsie.icu^
 ||pwyruccp.com^
 ||px-broke.com^
+||stk.px-cloud.net^
 ||px-golf.com^
 ||px3792.com^
 ||pxaction.com^
@@ -63713,6 +63714,7 @@
 ||sheewoamsaun.com^
 ||edge.sheffieldfinancial.com^
 ||shegraptekry.com^
+||sheideal.com^
 ||pub.sheknows.com^
 ||i.shelf.im^
 ||shelfoka.com^
