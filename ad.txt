@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250205103708
+!Version: 20250205174107
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81714
+!Total lines: 81721
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -13144,6 +13144,9 @@
 ||bridedeed.com^
 ||brideshieldstaircase.com^
 ||bridgearchly.com^
+||adx-os.bridgeoos.com^
+||adx-sg-req.bridgeoos.com^
+||api.bridgeoos.com^
 ||news.bridgetowermedia.com^
 ||bridgetrack.com^
 ||edge.bridgetrusttitle.com^
@@ -41049,6 +41052,7 @@
 ||shop.kicker.de^
 ||ues.kicker.de^
 ||kickfire.com^
+||api.kickoffo.site^
 ||evs.icy-lake.kickstarter.com^
 ||kiczrqo.com^
 ||branch.kiddom.co^
@@ -66396,6 +66400,7 @@
 ||spentdrugfrontier.com^
 ||spentjerseydelve.com^
 ||sperans-beactor.com^
+||speraspace.com^
 ||xml.speroll.com^
 ||rgiixp.sperry.com^
 ||more.spglobal.com^
@@ -71061,6 +71066,7 @@
 ||t.tnkase.com^
 ||tnkfactory.com^
 ||pxx.tnklrs.cn^
+||tnlixn.icu^
 ||tnmpd.xyz^
 ||tnpads.xyz^
 ||tns-counter.ru^
@@ -73078,6 +73084,7 @@
 ||u6u.icu^
 ||u78s.top^
 ||u7u9.com^
+||u7y.pw^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u833ij.com^
 ||u88.cn^
