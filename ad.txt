@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250206103808
+!Version: 20250206174045
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81747
+!Total lines: 81748
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -49354,6 +49354,7 @@
 ||exchange.nativeadshb.com^
 ||rtb-useast.nativeadshb.com^
 ||rtb-uswest.nativeadshb.com^
+||b.nativendo.de^
 ||d.nativendo.de^
 ||t.nativendo.de^
 ||nativeone.pl^
