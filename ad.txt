@@ -1,5 +1,5 @@
 !Title: anti-AD
-!Version: 20250224104403
+!Version: 20250224174153
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
@@ -46630,7 +46630,6 @@
 ||mnetads.com^
 ||mnevjhg.com^
 ||mng-ads.com^
-||mngusr.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mnifdlax.top^
@@ -57455,6 +57454,7 @@
 ||qnhi.cn^
 ||qnhuxyqjv.com^
 ||qnifdlay.top^
+||qnki.cn^
 ||qnmesegceogg.com^
 ||qnowyhbtjqvyn.com^
 ||qnp16tstw.com^
