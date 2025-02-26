@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250226104209
+!Version: 20250226174147
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80530
+!Total lines: 80531
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -64803,6 +64803,7 @@
 ||socksunnerve.com^
 ||socksupgradeproposed.com^
 ||sockwardrobe.com^
+||o.socoms.net^
 ||socsi.in^
 ||socy.es^
 ||sodallay.com^
