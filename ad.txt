@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250305104403
+!Version: 20250305174222
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80740
+!Total lines: 80742
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -5869,6 +5869,7 @@
 ||aiyouji.xyz^
 ||dm.aizhan.com^
 ||dmm.aizhan.com^
+||aizhantj.com^
 ||aj2532.bid^
 ||aj2550.bid^
 ||aj2555.bid^
@@ -29562,6 +29563,7 @@
 ||friendwool.com^
 ||frighten3452.fun^
 ||frightenedpotato.com^
+||frillyearth.com^
 ||fringecompetenceranger.com^
 ||fringeforkgrade.com^
 ||fringesdurocs.com^
