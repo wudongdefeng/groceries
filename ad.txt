@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250320104643
+!Version: 20250320174224
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81123
+!Total lines: 81124
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -70374,6 +70374,7 @@
 ||tk.tikamoon.nl^
 ||app.tikki.com^
 ||tiktakz.xyz^
+||stats.tiktoker.win^
 ||mcs-va-useast2a.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mcs.us.tiktokv.com^
