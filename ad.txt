@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250327174344
+!Version: 20250327195201
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81349
+!Total lines: 81350
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -55883,6 +55883,7 @@
 ||applink.podimo.com^
 ||podiumpresto.com^
 ||asp.podlist.de^
+||podname.com^
 ||podosupsurge.com^
 ||podscribe.com^
 ||podsolnu9hi10.com^
