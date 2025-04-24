@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250424105557
+!Version: 20250424174455
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81599
+!Total lines: 81601
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -62382,6 +62382,7 @@
 ||sailorjav128.fun^
 ||sailorlanceslap.com^
 ||sailsuit.com^
+||shopify-webhooks.sailthru.com^
 ||saimplemukente.org^
 ||t4e.sainsburys.co.uk^
 ||saipeevit.net^
@@ -72176,6 +72177,7 @@
 ||xldnzg.trendhim.de^
 ||mcacry.trendhim.it^
 ||dujgiq.trendhim.pl^
+||ingress.trendii.com^
 ||info.trendler.com^
 ||trendlewiggery.top^
 ||js.trendmd.com^
