@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250429105659
+!Version: 20250429174543
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 81984
+!Total lines: 81987
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -31783,6 +31783,7 @@
 ||collector.github.com^
 ||devgottia.github.io^
 ||googleads.github.io^
+||mihoutao1868.github.io^
 ||collector.githubapp.com^
 ||copilot-telemetry.githubusercontent.com^
 ||gitoku.com^
@@ -49099,6 +49100,7 @@
 ||mvxh.cn^
 ||ma.mw-ind.com^
 ||mwclanfwvgkje.com^
+||mwcnmtx.top^
 ||go.mwe.com^
 ||tracking.mwe.com^
 ||mwerilxx.top^
@@ -79196,6 +79198,7 @@
 ||axp.wwlp.com^
 ||ywrcqa.wwltv.com^
 ||wwok04281kl.com^
+||wwok04291kl.com^
 ||wwopenclick.vip^
 ||wwow.xyz^
 ||wwowww.xyz^
