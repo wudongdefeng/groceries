@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250508110404
+!Version: 20250508174420
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80801
+!Total lines: 80804
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -11044,6 +11044,7 @@
 ||track.bestbuy.ca^
 ||str2-bbyca-track.bestbuy.com^
 ||str2-fsca-track.bestbuy.com^
+||tmx.bestbuy.com^
 ||bestcasinopartner.com^
 ||bestchainconnection.com^
 ||bestcleaner.online^
@@ -58046,6 +58047,7 @@
 ||qnvljz.info^
 ||qnvwjpr.icu^
 ||qnwuamy.top^
+||qnwucny.top^
 ||qnwxk.com^
 ||elqforms.qnx.com^
 ||qnyysdideo.com^
@@ -73728,6 +73730,7 @@
 ||uuso05072qhs.xyz^
 ||uuso05080qhs.xyz^
 ||uuso05081qhs.xyz^
+||uuso05082qhs.xyz^
 ||uutytp.com^
 ||gg.uuu9.com^
 ||stat.uuu9.com^
