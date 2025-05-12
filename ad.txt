@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250511174354
+!Version: 20250512110615
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80495
+!Total lines: 80526
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -84,7 +84,6 @@
 @@||succeedscene.com^
 @@||surveymyopinion.researchnow.com^
 @@||tags.crwdcntrl.net^
-@@||tawk.to^
 @@||teams.live.com^
 @@||thumbnail.thench.net^
 @@||tpc.googlesyndication.com^
@@ -138,6 +137,7 @@
 @@||ads.privacy.qq.com^
 @@||future.biz.weibo.com^
 @@||ad-putting.gw.zt-express.com^
+@@||api.onedrive.com^
 @@||files.1drv.com^
 @@||skyapi.live.net^
 @@||adm.crowdicity.com^
@@ -4352,6 +4352,7 @@
 ||admob-cn.com^
 ||admobe.com^
 ||admobile.top^
+||admonishmentfastest.com^
 ||admost.com^
 ||admothreewallent.com^
 ||rtb-apac-v4.admozartexchange.com^
@@ -14225,6 +14226,7 @@
 ||ykskhw.candytm.pl^
 ||canekilttantrum.com^
 ||canellecrazy.com^
+||canelorets.com^
 ||canem-auris.com^
 ||images.response.canesmail.com^
 ||canganzimbi.com^
@@ -19408,6 +19410,7 @@
 ||corneey.com^
 ||corneredsedatetedious.com^
 ||corneredtomb.com^
+||cornerfairy.com^
 ||cornerscheckbookprivilege.com^
 ||cornershirts.com^
 ||go.cornerstonebuildingbrands.com^
@@ -23964,6 +23967,7 @@
 ||dwhfqyafsct.com^
 ||dwin1.com^
 ||dwin2.com^
+||dwlbcrqchdv.com^
 ||dwouxrufulchwar.com^
 ||dwqjaehnk.com^
 ||fqcqnb.dwr.com^
@@ -24209,6 +24213,7 @@
 ||af5b2ff170.e3aa58c849.com^
 ||f63a76c33b.e3efa413cc.com^
 ||3c18019e0f.e462bd5280.com^
+||e487a41ae0.com^
 ||b4c797e677.e4f7e35c25.com^
 ||e50.icu^
 ||d84e37ab9e.e55971de17.com^
@@ -31739,6 +31744,7 @@
 ||cdn.gocolow.com^
 ||deeplink.gocover.co.za^
 ||gocye.com^
+||csp.godaddy.com^
 ||events.api.godaddy.com^
 ||parking.godaddy.com^
 ||seal.godaddy.com^
@@ -33589,6 +33595,7 @@
 ||hccoeutg.com^
 ||images.emarketing.hccs.edu^
 ||hccwwz.cn^
+||hcevuzobtkit.com^
 ||hchus5739dmew.top^
 ||hcimixnajojl.com^
 ||hcinmau.top^
@@ -36285,6 +36292,7 @@
 ||iisabujdtg.com^
 ||a8.iisakafuji.online^
 ||iivt.com^
+||iiwk.cn^
 ||iiwm70qvjmee.com^
 ||iiyurraeoh.com^
 ||ijaurdus.xyz^
@@ -38981,6 +38989,7 @@
 ||daima.jiazhao.com^
 ||jiazhua.com^
 ||jibbahazara.top^
+||jibjpk.top^
 ||jibtdn.top^
 ||jicamadoless.com^
 ||jiclzori.com^
@@ -39937,6 +39946,7 @@
 ||jzokkejvjrvwj.top^
 ||jzplabcvvy.com^
 ||jzqbyykbrrbkq.top^
+||jzqbyykjormlw.top^
 ||jzqbyykjorqkq.top^
 ||jzqscvqlgasxh.buzz^
 ||jztwidpixa.icu^
@@ -40794,6 +40804,8 @@
 ||adl.kkguan.com^
 ||kkieeoxcjpqah.vip^
 ||kkkjpg-522.cc^
+||kklq05111p0i.com^
+||kklq05120p0i.com^
 ||kkmacsqsbf.info^
 ||a8cv.kkmatsusho.jp^
 ||kknkcyrkvoqsqa.com^
@@ -41011,6 +41023,7 @@
 ||ivcxpw.kogan.com^
 ||link.kogan.com^
 ||kogutcho.net^
+||kohiseewhatm.com^
 ||kohlermetrics.kohler.com^
 ||kohlermetricssecure.kohler.com^
 ||targetsecure.kohler.com^
@@ -43296,6 +43309,7 @@
 ||ljvmokwyromjj.top^
 ||ljybybyerzklr.top^
 ||ljybybyerzkry.top^
+||ljypfykcofguz.fun^
 ||ljzcawea.icu^
 ||donasi.lk21.de^
 ||lkcoffe.com^
@@ -47563,6 +47577,9 @@
 ||mortypush.com^
 ||mstat.mos.ru^
 ||stats.mos.ru^
+||mos05110o9i.com^
+||mos05111o9i.com^
+||mos05120o9i.com^
 ||mosa86.com^
 ||csvtr05.mosaikbusiness.com^
 ||eloqua.moschampionship.com^
@@ -54552,6 +54569,7 @@
 ||info.pharmaseek.com^
 ||omcshw.pharmasi.it^
 ||pharmcash.com^
+||pharoilrw.com^
 ||minnow.phasemedical.com^
 ||phasmidaiawong.top^
 ||phastoag.com^
@@ -55044,6 +55062,7 @@
 ||pjbbhj.icu^
 ||pjcijbv.icu^
 ||pjcn.org^
+||pjcqzm.cn^
 ||pjiijynaari.xyz^
 ||pjjpp.com^
 ||pjojddwlppfah.xyz^
@@ -57646,6 +57665,7 @@
 ||qevseeymcpxby.click^
 ||qewruty.top^
 ||qewwklaovmmw.top^
+||qezaznqixkxslm.com^
 ||qf-ebeydt.top^
 ||qfdn3gyfbs.com^
 ||qfeadpmagq.com^
@@ -57813,6 +57833,7 @@
 ||qndown.com^
 ||qnesnufjs.com^
 ||qnhi.cn^
+||qnhoqullbea.com^
 ||qnhuxyqjv.com^
 ||qnki.cn^
 ||qnmesegceogg.com^
@@ -59569,6 +59590,7 @@
 ||remailtarget.com^
 ||remainderskins.com^
 ||remaininghurtful.com^
+||remainmother.com^
 ||remarkable-assistant.pro^
 ||remarkablycommunity.com^
 ||remarkedoneof.info^
@@ -60064,6 +60086,7 @@
 ||rfarxhoikoda.xyz^
 ||rfdqlehuiufyk.click^
 ||ssc.rferl.org^
+||rffbxktvxmcje.space^
 ||rfgsdgg.top^
 ||wvvw.rfi.fr^
 ||rficarolnak.com^
@@ -63842,6 +63865,7 @@
 ||sillinessglamorousservices.com^
 ||sillyflowermachine.com^
 ||sillyscrew.com^
+||silpharapidly.com^
 ||ucppeo.silux.hr^
 ||silvaemegmho.shop^
 ||silver-pen.pro^
@@ -65398,6 +65422,7 @@
 ||sparkstudios.com^
 ||marketing.sparktx.com^
 ||sparredcubans.shop^
+||sparrowaboveaveragedefence.com^
 ||sparsgroff.com^
 ||track.sparta-tracking.xyz^
 ||go.spartansolutions.com^
@@ -67004,6 +67029,7 @@
 ||substantialgrade.com^
 ||substantialstraw.com^
 ||subtle-give.pro^
+||subtlemillenniumgallop.com^
 ||subtractfadeclient.com^
 ||subtractillfeminine.com^
 ||suburbanabolishflare.com^
@@ -70306,6 +70332,7 @@
 ||tools.party.pl^
 ||toolspaflinch.com^
 ||toomanyalts.com^
+||toomanyrelation.com^
 ||sanalytics.toonamiafrica.com^
 ||go.toonboom.com^
 ||tooniboy.com^
@@ -71262,6 +71289,7 @@
 ||triplestat.online^
 ||kangaroo.triplightfantastic.com^
 ||xgezbc.tripmasters.com^
+||tripsisvellums.com^
 ||tripsthorpelemonade.com^
 ||triptease.io^
 ||triptease.net^
@@ -71713,6 +71741,7 @@
 ||a.tuizhuti.com^
 ||tujourda.net^
 ||a1.tuke8.com^
+||tukewops.top^
 ||tukj.net^
 ||tukveks.com^
 ||tukvtuasw.com^
@@ -75159,6 +75188,7 @@
 ||vqnjrz.top^
 ||vqonjcnsl.com^
 ||vqoqlebqqammj.top^
+||vqqf.cn^
 ||vqrozzojjlwbz.top^
 ||vqvdpaqhpuuf.com^
 ||tr.fleetmatics.vraaguwofferte.be^
@@ -77170,6 +77200,7 @@
 ||wmwwmbjkqomr.top^
 ||bdasd.wmxa.cn^
 ||bdjiaoben.wmxa.cn^
+||wmykyw.icu^
 ||wmzlbovlwrrok.top^
 ||top.wn.com^
 ||wn6y.cn^
