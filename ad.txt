@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250514110142
+!Version: 20250514174447
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80831
+!Total lines: 80833
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -35287,6 +35287,7 @@
 ||hrwbr.life^
 ||hrwhwcyqjritt.xyz^
 ||hrxkdrlobmm.com^
+||hrzn-nxt.com^
 ||hs-analytics.net^
 ||hs-banner.com^
 ||hs-scripts.com^
@@ -44622,6 +44623,7 @@
 ||data.em.macys.com^
 ||sm.macys.com^
 ||madadsmedia.com^
+||madcheddar.net^
 ||madcpms.com^
 ||maddeningpowder.com^
 ||marketing.maddenmo.com^
