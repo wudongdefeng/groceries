@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250515110110
+!Version: 20250515174451
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80850
+!Total lines: 80852
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -13393,6 +13393,7 @@
 ||otkhyc.bueromarkt-ag.de^
 ||bugdsm.buffalo-boots.com^
 ||marketing.buffalojeans.com^
+||buffatopmost.com^
 ||jdgtgb.buffed.de^
 ||utiq.buffed.de^
 ||buffethypothesis.com^
@@ -43822,6 +43823,7 @@
 ||fxsdex.longvadon.com^
 ||wildcat.longviewforecasting.com^
 ||loobilysubdebs.com^
+||loobyfleyed.com^
 ||loodauni.com^
 ||loohaiturigavik.net^
 ||loohiwez.net^
