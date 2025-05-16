@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20250516110505
+!Version: 20250516174433
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 80945
+!Total lines: 80946
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -50402,6 +50402,7 @@
 ||niu05150jd.top^
 ||niu05151jd.top^
 ||niu05160jd.top^
+||niu05161jd.top^
 ||t.niuhuskies.com^
 ||niux88.com^
 ||niveausatan.shop^
