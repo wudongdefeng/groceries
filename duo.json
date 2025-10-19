@@ -24,7 +24,7 @@
 
 { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/喵影视线/api.json", "name": "喵影视线" },
 
-{ "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/摸鱼儿/api.json", "name": "摸鱼儿" },
+{ "url": "http://zhuimi.摸鱼儿.com/moyuer?token=zDF5A1sn", "name": "摸鱼儿" },
 
 { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/南风/api.json", "name": "南风" },
 
@@ -51,6 +51,10 @@
 { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/潇洒/api.json", "name": "潇洒" },
 
 { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/小虎斑/api.json", "name": "小虎斑" },
+
+{ "url": "https://gh-proxy.net/https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/4K1", "name": "4K1" },
+
+{ "url": "https://gh-proxy.net/https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/4K2", "name": "4K2" },
 
 { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wudongdefeng/tvbackup/refs/heads/main/小米/api.json", "name": "小米" }
 
