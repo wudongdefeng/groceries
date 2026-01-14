@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20260114112552
+!Version: 20260114175447
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 93678
+!Total lines: 93694
 @@||5471782.fls.doubleclick.net^
 @@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
@@ -810,6 +810,7 @@
 ||level.18huhu.com^
 ||18mad.com^
 ||highway.18manwa.com^
+||18mo21a2ji.com^
 ||18mob.com^
 ||18naked.com^
 ||a.18ramp.com^
@@ -2364,6 +2365,7 @@
 ||6fbce8ec59.com^
 ||6ff38f6d1b.com^
 ||6fm4dcpj31.com^
+||6ggstcmglf.com^
 ||6glece4homah8dweracea.com^
 ||6gvg5saail.com^
 ||a.6hd49jng.com^
@@ -7474,6 +7476,7 @@
 ||images.info.amexgbt.com^
 ||amfgozboqtpjf.online^
 ||amfoxwgipquyx.online^
+||amftsawknf.com^
 ||amfzugolptnpo.space^
 ||zpashl.amgakuin.co.jp^
 ||amgdgt.com^
@@ -9949,6 +9952,7 @@
 ||avzaqmaoryehd.website^
 ||avzlqdmryrdbj.website^
 ||avzmhurdchosj.space^
+||avzwkkmaqlmyr.top^
 ||awaidxotovdoe.online^
 ||awaitingcoordinatelassitude.com^
 ||awaitinggirl.net^
@@ -13675,6 +13679,7 @@
 ||bouncex.net^
 ||go.bouncie.com^
 ||gotest.bouncie.com^
+||bouncy-ask.pro^
 ||bouncyproperty.com^
 ||boundarybusiness.com^
 ||boundarygoose.com^
@@ -14487,6 +14492,7 @@
 ||bugs01130ko.com^
 ||bugs01131ko.com^
 ||bugs01140ko.com^
+||bugs01141ko.com^
 ||bugs2022.com^
 ||bugscrawled.com^
 ||a8cv.bugsfarm.jp^
@@ -18090,7 +18096,6 @@
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
 ||d12e9f83wyj0ww.cloudfront.net^
-||d12llxoeoqg343.cloudfront.net^
 ||d12nvv2jqzsaax.cloudfront.net^
 ||d12t7h1bsbq1cs.cloudfront.net^
 ||d12tu1kocp8e8u.cloudfront.net^
@@ -18099,7 +18104,6 @@
 ||d133y3h5r255gq.cloudfront.net^
 ||d138am4hd4ke4y.cloudfront.net^
 ||d13gni3sfor862.cloudfront.net^
-||d13i9p5451i433.cloudfront.net^
 ||d13j11nqjt0s84.cloudfront.net^
 ||d13jhr4vol1304.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
@@ -18299,7 +18303,6 @@
 ||d1lnjzqqshwcwg.cloudfront.net^
 ||d1lo4oi08ke2ex.cloudfront.net^
 ||d1lxhc4jvstzrp.cloudfront.net^
-||d1ly453dyhh7xf.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mahxde95gw5l.cloudfront.net^
 ||d1mar6i7bkj1lr.cloudfront.net^
@@ -18475,7 +18478,6 @@
 ||d21rudljp9n1rr.cloudfront.net^
 ||d21uxxljl9m8ns.cloudfront.net^
 ||d21y75miwcfqoq.cloudfront.net^
-||d222yr38kqru7v.cloudfront.net^
 ||d223xrf0cqrzzz.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
 ||d227n6rw2vv5cw.cloudfront.net^
@@ -18497,7 +18499,6 @@
 ||d23guct4biwna6.cloudfront.net^
 ||d23h3o5tkgytgm.cloudfront.net^
 ||d23i0h7d50duv0.cloudfront.net^
-||d23obxyzbkncgu.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23rx8p5l6yry7.cloudfront.net^
@@ -18604,7 +18605,6 @@
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2fhjyz3dwdx87.cloudfront.net^
 ||d2fhrdu08h12cc.cloudfront.net^
-||d2flxwxbgh2er.cloudfront.net^
 ||d2fmtc7u4dp7b2.cloudfront.net^
 ||d2fnnovf9qvlf2.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
@@ -18799,13 +18799,11 @@
 ||d2zbrsgwxpxcye.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d2zd0wa1vpt7j9.cloudfront.net^
-||d2zdzxjekh1km6.cloudfront.net^
 ||d2zf5gu5e5mp87.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
 ||d2zi8ra5rb7m89.cloudfront.net^
 ||d2zk8mk8hghu3d.cloudfront.net^
 ||d2zrhnhjlfcuhf.cloudfront.net^
-||d2zs9z3hmfhcr6.cloudfront.net^
 ||d2zzazjvlpgmgi.cloudfront.net^
 ||d300jm499woj5o.cloudfront.net^
 ||d301cxwfymy227.cloudfront.net^
@@ -18876,7 +18874,6 @@
 ||d37ax1qs52h69r.cloudfront.net^
 ||d37byya7cvg7qr.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
-||d37j8pfxu2iogi.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
 ||d37s9vd5t6mov7.cloudfront.net^
 ||d37sevptuztre3.cloudfront.net^
@@ -18933,7 +18930,6 @@
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
-||d3edfxwiftnsxy.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
@@ -19260,7 +19256,6 @@
 ||dk4w74mt6naf3.cloudfront.net^
 ||dk57sacpbi4by.cloudfront.net^
 ||dkgp834o9n8xl.cloudfront.net^
-||dkhtmc7ko8puc.cloudfront.net^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dknnlu3s1bnz7.cloudfront.net^
 ||dkre4lyk6a9bt.cloudfront.net^
@@ -19427,7 +19422,6 @@
 ||dzdgfp673c1p0.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
 ||dzpu6za66svjl.cloudfront.net^
-||dzqsslysklwgo.cloudfront.net^
 ||dzr4v2ld8fze2.cloudfront.net^
 ||dzs55b7slwyx.cloudfront.net^
 ||dzu5p9pd5q24b.cloudfront.net^
@@ -19542,6 +19536,7 @@
 ||webchat.cmcplanet.com^
 ||images.learn.cmdgroup.com^
 ||cmdrogqpxvxtr.online^
+||cmdskihhtos.com^
 ||cmdtubyfwosoa.online^
 ||cmehuhokvoks.com^
 ||acv.cmf-hikari.net^
@@ -19905,6 +19900,7 @@
 ||stats.coditia.com^
 ||antlion.codivores.com^
 ||a8cv.codmon.com^
+||coebvtnezjihq.online^
 ||tr.newsletters.coedition-contact.fr^
 ||coedmediagroup.com^
 ||coeinilcucb.net^
@@ -24750,6 +24746,7 @@
 ||dkbafnqxmgqy.com^
 ||dkc63u5su8.com^
 ||dkcbuqudvsbkb.site^
+||dkdeelybfxooo.website^
 ||dkepsueazpneu.space^
 ||dkfjlkgjbhbv.com^
 ||dkfkshfzzmxss.online^
@@ -24855,6 +24852,7 @@
 ||dmdjlhulaaatli.com^
 ||dmemutamv.com^
 ||dmepyodjotcuks.com^
+||dmesmbaifpdfj.space^
 ||dmfletnofbgay.site^
 ||dmfnljgqpuduj.space^
 ||dmfnlrvyackwo.online^
@@ -25896,6 +25894,7 @@
 ||s.dt6ycu.com^
 ||dtadnetwork.com^
 ||dtauda3232.top^
+||dtazafmadnc.com^
 ||dtbfqbcchnbww.site^
 ||dtc-330d.com^
 ||dtc-v6t.com^
@@ -33887,6 +33886,7 @@
 ||clnbze.gazetalubuska.pl^
 ||clnbze.gazetawroclawska.pl^
 ||c.gazetevatan.com^
+||t.gazetteer.co^
 ||mtkure.gazin.com.br^
 ||gazkohjzcdbty.online^
 ||tr.serviceclient.gazservicerapide.fr^
@@ -35837,6 +35837,7 @@
 ||securemetrics.gpsuniforms.com^
 ||gptzluojzguhq.online^
 ||gpuhnwgklkfpq.website^
+||gpuivvoefwp.xyz^
 ||gpviryfjyadhj.website^
 ||gpxmfzexfgnvo.space^
 ||gpyuljehcsmeu.space^
@@ -36160,6 +36161,7 @@
 ||greikvuth.com^
 ||gremepooltaix.net^
 ||grene.site^
+||grengeftoo.net^
 ||cookies.grenke.ch^
 ||campaigns.grenke.com^
 ||cookies.grenke.com^
@@ -42754,6 +42756,7 @@
 ||irmlutzpydekm.website^
 ||irnmh.fun^
 ||iroaltidsou.net^
+||iroatfasq.xyz^
 ||trcka8net.irobot-jp.com^
 ||elq.irobot.com^
 ||images.marketing.irobot.com^
@@ -47338,6 +47341,7 @@
 ||labourprincessmeek.com^
 ||vxohkh.laboutiqueofficielle.com^
 ||labqjxrhyjufl.world^
+||labrosehomburg.com^
 ||labumhitjxctw.online^
 ||metric.lacaixa.es^
 ||sc.lacapitale.com^
@@ -52573,6 +52577,7 @@
 ||mewiththeb.com^
 ||mewoaglaump.net^
 ||mews2ruck.com^
+||mewsmolebut.shop^
 ||go.mexicancupid.date^
 ||meyddubqxekbd.site^
 ||info.meyerandassoc.com^
@@ -59197,6 +59202,7 @@
 ||olderouncedownstairs.com^
 ||oldfashioned-fold.pro^
 ||oldfashionedoffer.com^
+||oldgladly.com^
 ||oldh.cn^
 ||tracking.oldnational.com^
 ||oldportcoffee.com^
@@ -63327,6 +63333,7 @@
 ||administrator.pnclassaction.com^
 ||pncloudfl.com^
 ||pnd.gs^
+||pndqaiqeerahv.com^
 ||pndvhjgixorbq.online^
 ||pneojrqqkydgc.online^
 ||data-ssl.pnet.co.za^
@@ -67024,6 +67031,7 @@
 ||info.quova.com^
 ||quppbriocuzkx.website^
 ||quqjslurogcoj.site^
+||qurguoxxl.com^
 ||qushad.com^
 ||quszrmzafudas.online^
 ||qutaobi.com^
@@ -74556,7 +74564,6 @@
 ||solelyskirtniche.com^
 ||solemnbible.com^
 ||solemndates.com^
-||solemnlybuck.com^
 ||solemnlyreflectionextinct.com^
 ||tr.solendi.com^
 ||web.solesource.com^
@@ -74938,6 +74945,7 @@
 ||jlhwxm.spartoo.es^
 ||cdeatz.spartoo.it^
 ||zwinqi.spartoo.pt^
+||spasslonely.shop^
 ||spatacquaint.com^
 ||spattepush.com^
 ||spayvuulqmdr.com^
@@ -81360,6 +81368,7 @@
 ||triumphantthingsreading.com^
 ||triumphhello.com^
 ||go.triumphlearning.com^
+||trivetincur.com^
 ||trivial-final.com^
 ||trivial-reward.pro^
 ||trivialextent.com^
@@ -82608,6 +82617,7 @@
 ||ufpcdn.com^
 ||ufrbtrzrinhgx.top^
 ||jxiwdw.ufret.jp^
+||ufthwfxkshxns.online^
 ||uftoxnxd.net^
 ||ufuaaejrupvow.space^
 ||grado.ufv.es^
@@ -82743,6 +82753,7 @@
 ||uitesousefulheady.org^
 ||uitjngvykqxxk.space^
 ||sparrow.uitvaartzorg-vanraemdonck.be^
+||uiulsijcmimxb.site^
 ||uivc.cn^
 ||uivcigdsbjakxv.net^
 ||uivsstyggpxpd.website^
@@ -83467,6 +83478,7 @@
 ||solutions.unysonlogistics.com^
 ||bcigfr.www.uoc.edu^
 ||uoceijctt.net^
+||uocxajpuhrfyi.website^
 ||uod2quk646.com^
 ||uodoo.com^
 ||uodywypnuvzwl.online^
@@ -86186,6 +86198,7 @@
 ||vplxmpagryjvl.space^
 ||vplzlxrmkwkop.website^
 ||vpn-access.site^
+||vpnfeqlkmuknp.site^
 ||vpnonly.site^
 ||t.vpntrck.com^
 ||vpon.com^
@@ -88704,6 +88717,7 @@
 ||wnacammull.com^
 ||wnbfw.com^
 ||axp.wnct.com^
+||wndfgxbgndxby.website^
 ||wndfziyuixzzr.site^
 ||wndj.net^
 ||wneecilp.net^
@@ -91643,6 +91657,7 @@
 ||yogadineribbon.com^
 ||fxmdjr.yogajournal.jp^
 ||yogapersuasive.com^
+||yogbucxeeigvs.space^
 ||hbahrd.yogibo.jp^
 ||lwusnt.yogibo.kr^
 ||yogjylemldvjb.online^
@@ -91909,6 +91924,7 @@
 ||ypwcttlciuuzu.online^
 ||ypxdakreabzhk.website^
 ||ypyr.cn^
+||yqarhbdng.com^
 ||yqeaelhqycxcp.website^
 ||yqeshhkcliqgh.website^
 ||yqfbofrwqqukn.online^
