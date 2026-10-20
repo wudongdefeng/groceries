@@ -4,16 +4,13 @@ import json
 import os
 import re
 import tempfile
+from pathlib import Path
 
 import requests
 
 from telethon import TelegramClient
 from telethon.crypto import AuthKey
 from telethon.sessions import MemorySession
-
-# Telegram credentials must come from environment / TG_SESSION_ENV.
-# Example:
-# export TG_SESSION_ENV='{"TELEGRAM_DC_ID":"5","TELEGRAM_SERVER_ADDRESS":"91.108.56.104","TELEGRAM_PORT":"443","TELEGRAM_AUTH_KEY_HEX":"...","API_ID":4072867,"API_HASH":"..."}'
 
 TARGET_CHAT_IDS = [
     1193345985,
@@ -24,11 +21,53 @@ TARGET_CHAT_IDS = [
     1440109119,
     1620853847,
     874231729,
-    # 这里继续加
 ]
 
 ALLOWED_EXTS = {".json", ".zip", ".py", ".js", ".apk"}
-MAX_WEWORK_FILE_SIZE = 20 * 1024 * 1024  # 20MB
+MAX_WEWORK_FILE_SIZE = 20 * 1024 * 1024
+HISTORY_PATH = Path(__file__).resolve().parent / "history" / "history.json"
+
+
+def ensure_history_file():
+    HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    if not HISTORY_PATH.exists():
+        HISTORY_PATH.write_text("{}", encoding="utf-8")
+
+
+def load_history() -> dict:
+    ensure_history_file()
+    try:
+        with open(HISTORY_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if not isinstance(data, dict):
+            return {}
+        result = {}
+        for chat_id, msg_ids in data.items():
+            try:
+                result[str(chat_id)] = [int(x) for x in msg_ids]
+            except Exception:
+                result[str(chat_id)] = []
+        return result
+    except Exception:
+        return {}
+
+
+def save_history(history: dict):
+    ensure_history_file()
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+
+def is_sent(history: dict, chat_id: int, msg_id: int) -> bool:
+    return int(msg_id) in history.get(str(chat_id), [])
+
+
+def mark_sent(history: dict, chat_id: int, msg_id: int):
+    chat_key = str(chat_id)
+    msg_id = int(msg_id)
+    history.setdefault(chat_key, [])
+    if msg_id not in history[chat_key]:
+        history[chat_key].append(msg_id)
 
 
 def get_telegram_credentials() -> tuple[int, str]:
@@ -49,9 +88,7 @@ def get_telegram_credentials() -> tuple[int, str]:
     if env_api_id and env_api_hash:
         return int(env_api_id), env_api_hash
 
-    raise ValueError(
-        "No Telegram API credentials found. Please set TG_SESSION_ENV with API_ID/API_HASH or export API_ID and API_HASH."
-    )
+    raise ValueError("No Telegram API credentials found.")
 
 
 def get_qywx_key() -> str:
@@ -78,19 +115,12 @@ def restore_session_from_env(env_json: str) -> MemorySession:
     except json.JSONDecodeError as exc:
         raise ValueError(f"Invalid TG_SESSION_ENV JSON: {exc}") from exc
 
-    required_keys = [
-        "TELEGRAM_DC_ID",
-        "TELEGRAM_SERVER_ADDRESS",
-        "TELEGRAM_PORT",
-    ]
+    required_keys = ["TELEGRAM_DC_ID", "TELEGRAM_SERVER_ADDRESS", "TELEGRAM_PORT"]
     missing = [k for k in required_keys if not data.get(k)]
     auth_key_hex = data.get("TELEGRAM_AUTH_KEY_HEX")
     auth_key_b64 = data.get("TELEGRAM_AUTH_KEY_B64")
     if missing or (not auth_key_hex and not auth_key_b64):
-        raise ValueError(
-            "TG_SESSION_ENV missing required Telegram session fields: "
-            "TELEGRAM_DC_ID, TELEGRAM_SERVER_ADDRESS, TELEGRAM_PORT, TELEGRAM_AUTH_KEY_HEX or TELEGRAM_AUTH_KEY_B64"
-        )
+        raise ValueError("TG_SESSION_ENV missing required Telegram session fields.")
 
     dc_id = int(data["TELEGRAM_DC_ID"])
     server_address = data["TELEGRAM_SERVER_ADDRESS"]
@@ -114,11 +144,7 @@ def restore_session_from_env(env_json: str) -> MemorySession:
 def get_session_from_env_only() -> MemorySession:
     tg_session_env = os.getenv("TG_SESSION_ENV")
     if not tg_session_env:
-        raise FileNotFoundError(
-            "No Telegram session found. Please set TG_SESSION_ENV with the Telegram session data."
-        )
-
-    print("使用 TG_SESSION_ENV 读取 Telegram session")
+        raise FileNotFoundError("No Telegram session found.")
     return restore_session_from_env(tg_session_env)
 
 
@@ -147,7 +173,6 @@ def ext_from_name(name: str):
 
 
 def is_allowed_file(msg):
-    # 排除视频、图片、语音、贴纸
     if getattr(msg, "video", None):
         return False
     if getattr(msg, "photo", None):
@@ -182,7 +207,6 @@ def safe_download_path(msg, idx: int):
 
 
 async def resolve_chat_entity(client, chat_id):
-    # 1) 优先直接解析
     try:
         entity = await client.get_entity(chat_id)
         if entity:
@@ -190,7 +214,6 @@ async def resolve_chat_entity(client, chat_id):
     except Exception:
         pass
 
-    # 2) 兜底：从当前 dialogs 找匹配 id
     async for dialog in client.iter_dialogs():
         entity = dialog.entity
         if getattr(entity, "id", None) == chat_id:
@@ -298,6 +321,7 @@ async def collect_recent_messages(client, chat_entity, limit=50):
 
 
 async def main():
+    history = load_history()
     session = get_session_from_env_only()
     api_id, api_hash = get_telegram_credentials()
     client = TelegramClient(session, api_id, api_hash)
@@ -319,8 +343,14 @@ async def main():
             print(f"chat_id={chat_id} 共找到 {len(items)} 条符合条件的消息")
 
             for kind, msg in items[:5]:
+                if is_sent(history, chat_id, msg.id):
+                    print(f"跳过已发送消息：chat_id={chat_id}, msg_id={msg.id}")
+                    continue
+
                 if kind == "link":
                     send_link_message(msg)
+                    mark_sent(history, chat_id, msg.id)
+                    save_history(history)
                     total_sent += 1
                     continue
 
@@ -353,6 +383,9 @@ async def main():
                         json={"msgtype": "markdown", "markdown": {"content": summary}},
                         timeout=30,
                     )
+
+                    mark_sent(history, chat_id, msg.id)
+                    save_history(history)
 
                     try:
                         os.remove(local_path)
