@@ -289,7 +289,7 @@ def is_link_text(msg):
     return bool(re.search(r'https?://[^\s]+', text))
 
 
-def send_link_message(msg):
+def send_link_message(msg, source_name: str | None = None):
     text = (msg.message or "").strip()
     if not text:
         return
@@ -298,9 +298,12 @@ def send_link_message(msg):
     if not matches:
         return
 
+    source_label = source_name or "未知频道"
     content = (
         "## 文本链接转发\n"
+        f"- 来源频道: {source_label}\n"
         f"- 时间: {msg.date.strftime('%Y-%m-%d %H:%M:%S')}\n"
+        f"- 消息ID: {msg.id}\n"
         f"- 内容: {text}\n"
     )
 
@@ -337,7 +340,8 @@ async def main():
                 print(f"无法解析 chat_id={chat_id}，跳过")
                 continue
 
-            print(f"处理 chat_id={chat_id}, title={getattr(entity, 'title', 'UNKNOWN')}, type={type(entity).__name__}")
+            source_name = getattr(entity, "title", None) or str(chat_id)
+            print(f"处理 chat_id={chat_id}, title={source_name}, type={type(entity).__name__}")
 
             items = await collect_recent_messages(client, entity, limit=200)
             print(f"chat_id={chat_id} 共找到 {len(items)} 条符合条件的消息")
@@ -348,7 +352,7 @@ async def main():
                     continue
 
                 if kind == "link":
-                    send_link_message(msg)
+                    send_link_message(msg, source_name)
                     mark_sent(history, chat_id, msg.id)
                     save_history(history)
                     total_sent += 1
@@ -374,6 +378,7 @@ async def main():
                     file_name = get_filename_from_message(msg) or "unknown"
                     summary = (
                         "## 已推送文件\n"
+                        f"- 来源频道: {source_name}\n"
                         f"- 文件名: {file_name}\n"
                         f"- 时间: {msg.date.strftime('%Y-%m-%d %H:%M:%S')}\n"
                         f"- 消息ID: {msg.id}"
