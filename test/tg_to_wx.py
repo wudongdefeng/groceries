@@ -300,14 +300,14 @@ def send_link_message(msg, source_name: str | None = None):
 
     source_label = source_name or "未知频道"
     content = (
-        "## 文本链接转发\n"
-        f"- 来源频道: {source_label}\n"
-        f"- 时间: {msg.date.strftime('%Y-%m-%d %H:%M:%S')}\n"
-        f"- 消息ID: {msg.id}\n"
-        f"- 内容: {text}\n"
+        "文本链接转发\n"
+        f"来源频道: {source_label}\n"
+        f"时间: {msg.date.strftime('%Y-%m-%d %H:%M:%S')}\n"
+        f"消息ID: {msg.id}\n"
+        f"内容: {text}\n"
     )
 
-    payload = {"msgtype": "markdown", "markdown": {"content": content}}
+    payload = {"msgtype": "text", "text": {"content": content}}
     r = requests.post(get_webhook_send_url(), json=payload, timeout=30)
     print("企业微信文本转发返回:", r.status_code, r.text)
     r.raise_for_status()
